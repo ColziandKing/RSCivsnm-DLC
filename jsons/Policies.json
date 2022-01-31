@@ -1,0 +1,108 @@
+[
+{
+		"name": "Supremacy",
+		"era": "Medieval era",
+		"uniques": ["-[25]% [All] unit maintenance costs","+[33]% Production when constructing [Barracks]","+[33]% Production when constructing [Military Academy]"],
+		"policies": [
+
+			{
+				"name": "Militarism",
+				"uniques": ["Gold cost of purchasing units -33%","Gold cost of upgrading military units reduced by 33%"],
+				"row": 1,
+				"column": 2
+			},		
+			{
+				"name": "Scorched Earth",
+				"uniques": ["+15% Combat Strength for all units when attacking Cities","Melee units pay no movement cost to pillage","+[2] Movement for all [Great General] units"],
+				"row": 1,
+				"column": 3
+			},	
+			{
+				"name": "Populism",
+				"uniques": ["[Wounded] units deal +[25]% damage","+10% Strength for all units during Golden Age"],
+				"requires": ["Militarism"],
+				"row": 2,
+				"column": 1
+			},			
+			{
+				"name": "Police State",
+				"uniques": ["[+1 Happiness] from every [Town Hall]","[+3 Happiness] from every [Courthouse]","[+5 Happiness] from every [Prison Camp]"],
+				"requires": ["Scorched Earth","Militarism"],
+				"row": 2,
+				"column": 3
+			},		
+			{
+				"name": "Total War",
+				"uniques": ["+[15]% Production when constructing [military units]", "New military units start with [15] Experience"],
+				"requires": ["Populism"],
+				"row": 3,
+				"column": 1
+			},
+		
+			{
+				"name": "Fascism",
+				"uniques": ["Quantity of strategic resources produced by the empire increased by 100%","[-2 Food] from every [Courthouse]","[-6 Food, +3 Production] from every [Prison Camp]"],
+				"requires": ["Police State"],
+				"row": 3,
+				"column": 3
+			},		
+			{
+				"name": "Supremacy Complete",
+				"uniques": ["+20% attack bonus to all Military Units for 30 turns"]
+			}
+		]
+	},
+{
+		"name": "Rationalism",
+		"era": "Modern era",
+		"effect": "",
+		"uniques": ["Science gained from research agreements +50%"],
+		"policies": [
+			{
+				"name": "Secularism",
+				"effect": "",
+				"uniques": ["[+1 Science] from every specialist"],
+				"row": 1,
+				"column": 1
+			},
+
+			{
+				"name": "Humanism",
+				"effect": "",
+				"uniques": ["[+1 Happiness] from every [University]","[+1 Happiness] from every [Data Center]",
+					"[+1 Happiness] from every [Public School]"],
+				"row": 1,
+				"column": 2
+			},			
+			{
+				"name": "Emission Standards",
+				"effect": "",
+				"uniques": ["[+1 Food] from every [Coal Plant]","[-1 Production] per [5] population in all cities"],
+				"row": 1,
+				"column": 3
+			},
+			{
+				"name": "Sample Analysis",
+				"effect": "",
+				"uniques": ["[+1 Science] from every [Moisture trap]", "+[17]% [Science] from every [University]"],
+				"requires": ["Secularism"],
+				"row": 2,
+				"column": 1
+			},
+			{
+				"name": "Technocracy",
+				"effect": "",
+				"uniques": ["+[25]% [Science] from every [Council]","[+1 Gold] from all [Science] buildings"],
+				"requires": ["Humanism"],
+				"row": 2,
+				"column": 2
+			},
+			{
+				"name": "Rationalism Complete",
+				"effect": "",
+				"uniques": ["+15% science while empire is happy"]
+			}
+		]
+    },
+	
+]
