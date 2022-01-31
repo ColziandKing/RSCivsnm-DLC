@@ -75,11 +75,11 @@
 		"startBias": ["Hills"],
   	        "preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "Be welcomed, princesses. You lead the beatiful and joyful nation of Salumi, a country filled more women than men with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Salumi emerged to a great nation. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Salumi ought to help other, no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Salumi to achieve greatness.", "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
+		"startIntroPart1": "High & high it be the roar to our king of our ancestors realm. This land where we stand, where our ancestors fought and lost blood & soul. We have kept it out of alien invaders. Who want our people dead for our difference from themselves, should we dominate the outsiders or become allies with them for a nation of nations that has been prophesied for a long time. It was when our rebellious past, left the one and only truth. Then came that from domination of those who stray in our lands to a change of letting them in our lands and giving them great hospitality",
 // Will you prove and win the argument of the arepas?
 		"startIntroPart2": "Prince, O' Future King! Lead us like your heirs and those who lead us before you.",
 
-		"declaringWar": "Our ancesters were not yet much of a civilization but barbarians, we ",
+		"declaringWar": "Our ancesters were not yet much of a civilization but barbarians, we shall vanquish you and become greater than ever.",
 		"attacked": "Bahhh! You will become nothing.",
 		"defeated":  "We have become nothing!",
 		"introduction":  "High Hello to you. To our wonderful realm, have you come to join our might?",
