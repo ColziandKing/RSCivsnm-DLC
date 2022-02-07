@@ -49,7 +49,6 @@
   	        "preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Be welcomed, princesses. You lead the beatiful and joyful nation of Salumi, a country filled more women than men with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Salumi emerged to a great nation. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Salumi ought to help other, no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Salumi to achieve greatness.",
-// Will you prove and win the argument of the arepas?
 		"startIntroPart2": "Princesses, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
 
 		"declaringWar": "Prepare to lose your empire of opression!",
@@ -76,7 +75,6 @@
   	        "preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "High & high it be the roar to our king of our ancestors realm. This land where we stand, where our ancestors fought and lost blood & soul. We have kept it out of alien invaders. Who want our people dead for our difference from themselves, should we dominate the outsiders or become allies with them for a nation of nations that has been prophesied for a long time. It was when our rebellious past, left the one and only truth. Then came that from domination of those who stray in our lands to a change of letting them in our lands and giving them great hospitality",
-// Will you prove and win the argument of the arepas?
 		"startIntroPart2": "Prince, O' Future King! Lead us like your heirs and those who lead us before you.",
 
 		"declaringWar": "Our ancesters were not yet much of a civilization but barbarians, we shall vanquish you and become greater than ever.",
@@ -91,8 +89,8 @@
 		"innerColor": [2,5,0],
 
 		"uniqueName": "New Beginning",
-		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "[-25]% maintenance costs <for [Land] units>"], "[-66]% maintenance costs <for [Water] units>", "Receive a free Social Policy when you advance to the next era", "Receive free [Merchant of Awesomeness] when you discover [Optics]", "When a city is conquered, gain a free Technology. Gaining a city through a trade deal does not count", "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
-			"50% chance of capturing defeated Barbarian naval units and earning 25 Gold"],
+		"uniques": ["[-76]% maintenance costs <for [Water] units>", ["77% chance to earn 30 Gold and recruit a Barbarian unit from a conquered encampment",
+			"[-35]% maintenance costs <for [Land] units>"], "60% chance of capturing defeated Barbarian naval units and earning 25 Gold"],
 		"cities": ["Rasthiobel", "Heroinedia", "Berkion", "Poparfont", "Deskraston", "Marbona", "Gingerwhite", "Simbasi", "Garseng", "Kisamae"]
 	},
 	{
