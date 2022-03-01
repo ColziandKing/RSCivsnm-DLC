@@ -15,8 +15,8 @@
 		"hateHello": "You speak in pride, I don't wanna hear it",
 		"tradeRequest": "It appears that you have a golden interest of our goods",
 		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Istanbul", "Paris", "Kyoto", "Aitea", "Israel", "Obrero", "DanTDM", "The Ghost & Molly McGee", "Kid Cosmic", "Wander Over Yonder"],
-		"outerColor": [1,2,103],
-		"innerColor": [4,255,6], 
+		"outerColor": [255,153,51],
+		"innerColor": [51,255,255], 
 		"uniqueName": "Cool Kings",
 	        "uniqueText": "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
 		"uniques": ["May buy [All] buildings for [1] [Culture] [in all cities]", "May buy [All] units for [1] [Culture] [in all cities]", "+[9] Movement <for all [All] units>", "[-100]% maintenance costs <for [All] units>", "[4] additional attacks per turn", "[9] Range", "May withdraw before melee ([100]%)", "Visible to others", "May capture killed [All] units", "Can move after attacking", "Can move immediately once bought", "No movement cost to pillage", "[+100] Sight <for [All] units>", "[+1000]% Strength <vs [All] units>", "+[1000] happiness from each type of luxury resource", "[+10 Science, +10 Food, +10 Gold, +10 Production, +10 Culture, +10 Faith, +10 Happiness] from every specialist [in all cities]", "100% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "[100% chance of capturing defeated Barbarian naval units and earning 25 Gold", "[+10 Science, +10 Food, +10 Gold, +10 Production, +10 Culture, +10 Faith, +10 Happiness] from [All] tiles [in all cities]", "Quantity of Resources gifted by City-States increased by [1000]%", "City-State Influence degrades [1000]% slower", "Resting point for Influence with City-States is increased by [1000]", "Cities are razed [1000] times as fast", "Influence of all other civilizations with all city-states degrades [1000]% faster", "Gifts of Gold to City-States generate [2000]% more Influence", "Golden Age length increased by [1000]%", "[-1000]% tile improvement construction time", "Quantity of strategic resources produced by the empire +[1000]%", "[-1000]% unhappiness from population [in all cities]", "[+1000]% [Production] [in all cities]", "[+1000]% [Food] [in all cities]", "[+1000]% [Gold] [in all cities]", "[+99999]% [Science] [in all cities]", "[+99999]% [Faith] [in all cities]", "[+99999]% [Culture] [in all cities]", "[+100]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [+99999] tiles away", "[+5] Range", "+[5] Movement for [All] units", "[2] additional attacks per turn", "Units fight as though they were at full strength even when damaged", "Embarked units can defend themselves", "\"Borrows\" city names from other civilizations in the game", "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.", "May capture killed [All] units", "Can embark and move over Coasts and Oceans immediately", "+[1000]% defensive strength for cities", "Visible to others", "May choose [5] additional belief(s) of any type when [founding] a religion", "Land units may cross [Mountain] tiles after the first [Worker] is earned", "Units ending their turn on [Mountain] tiles take [1] damage"]
@@ -59,8 +59,8 @@
 		"hateHello": "Assh, what do you want?",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [255,102,255],
+		"innerColor": [255,102,178],
 
 		"uniqueName": "Salumi Chocolate Love",
 		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>"],
@@ -85,8 +85,8 @@
 		"hateHello": "Bahhh! What?",
 		"tradeRequest": "High Hello to you, I have something to trade with ya.",
 
-	        "outerColor": [3,21,0],
-		"innerColor": [2,5,0],
+	        "outerColor": [160,160,160],
+		"innerColor": [255,255,255],
 
 		"uniqueName": "New Beginning",
 		"uniques": ["[-76]% maintenance costs <for [Water] units>", ["77% chance to earn 30 Gold and recruit a Barbarian unit from a conquered encampment",
