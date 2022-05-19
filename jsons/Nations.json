@@ -1,0 +1,63 @@
+[
+	  //City-States//
+	{
+		"name": "Winssefa",
+		"adjective": ["Winsseffians"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [76,0,153],
+		"cities": ["Winssei"]
+	},
+	{
+		"name": "Orlhium",
+		"adjective": ["Orlegiums"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0, 102,204],
+		"cities": ["Orlhium"]
+	},
+	{
+		"name": "Eshgor",
+		"adjective": ["Eshagorian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,255,0],
+		"cities": ["Eshgor"]
+	},
+	{
+		"name": "Dorgainnodus",
+		"adjective": ["Sudnos"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Let's have a nice little War, shall we?",
+		"attacked": "If you need your nose bloodied, we'll happily serve.",
+		"defeated": "The Sudnos Ghost will never stop haunting you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,102,102],
+		"cities": ["Suddoronui"]
+	},
+	{
+		"name": "Servwhann",
+		"adjective": ["Servws"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "By God's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [224,224,224],
+		"cities": ["Servor"]
+	}
+  ]
