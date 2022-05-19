@@ -110,8 +110,8 @@
 		"cities": ["Winssei"]
 	},
 	{
-		"name": "Antwerp",
-		"adjective": ["Antwerp"],
+		"name": "Anthewarp",
+		"adjective": ["Anthewarp"],
 		"cityStateType": "Cultured",
 		"startBias": ["Coast"],
 
@@ -135,13 +135,13 @@
 		"cities": ["Orlhium"]
 	},
 	{
-		"name": "Vancouver",
-		"translatedName": "Vancouver",
-		"adjective": ["Vancouverite"],
+		"name": "Vanshield",
+		"translatedName": "Vanshield",
+		"adjective": ["Vanshielderite"],
 		"cityStateType": "Maritime",
 
-		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
-		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Vanshield, we can have no recourse but war!",
+		"attacked": "As we can reach no peaceful resolution with you, Vanshield must turn, with reluctance, to war.",
 		"defeated": "I regret not defending my country to the last, although it was not of use.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,255,128],
@@ -160,8 +160,8 @@
 		"cities": ["Eshgor"]
 	},
 	{
-		"name": "Genoa",
-		"adjective": ["Genoese"],
+		"name": "Gerevnoah",
+		"adjective": ["Gerevnoese"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 
@@ -170,7 +170,7 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [45,255,86],
-		"cities": ["Genoa"]
+		"cities": ["Gerevnae"]
 	},
 	{
 		"name": "Dorgainnodus",
@@ -185,17 +185,17 @@
 		"cities": ["Suddoronui"]
 	},
 	{
-		"name": "Ur",
-		"adjective": ["Ur"],
+		"name": "Urukio",
+		"adjective": ["Urukios"],
 		"cityStateType": "Militaristic",
 		"startBias": ["Coast"],
 
 		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
-		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",
+		"attacked": "Why do we fight? Because Ururo demands it. Now, witness the power of the Urukios!",
 		"defeated": "What treachery has struck us? No, what evil?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,69,0],
-		"cities": ["Ur"]
+		"cities": ["Urukio"]
 	},
 	{
 		"name": "Servwhann",
@@ -210,8 +210,8 @@
 		"cities": ["Servor"]
 	},
 	{
-		"name": "Bratislava",
-		"adjective": ["Bratislava"],
+		"name": "Bahaghari",
+		"adjective": ["Bahagharian"],
 		"cityStateType": "Religious",
 
 		"declaringWar": "I didn't want to do this. We declare war.",
@@ -219,6 +219,6 @@
 		"defeated": "Why have you forsaken us my lord?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,255],
-		"cities": ["Bratislava"]
+		"cities": ["Bahaghari]
 	}
   ]
