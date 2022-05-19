@@ -36,7 +36,7 @@
 		"name": "Fullysia",
 		"leaderName": "Ullysia Ryden Gozanlithozz",
 		"adjective": ["Fullysian"],
-		"startBias": ["Grassland","Forest"],
+		"startBias": ["Coast","Oasis"],
   	        "preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Buddhism",
 
@@ -95,130 +95,5 @@
 			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]"],
 
 		"cities": ["Dome Headquarters","Totem Bunkerbase","Polebind"]
-	},
-	  //City-States//
-	{
-		"name": "Winssefa",
-		"adjective": ["Winsseffians"],
-		"cityStateType": "Cultured",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We were too weak to protect ourselves...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [76,0,153],
-		"cities": ["Winssei"]
-	},
-	{
-		"name": "Anthewarp",
-		"adjective": ["Anthewarp"],
-		"cityStateType": "Cultured",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [194,97,255],
-		"cities": ["Antwerp"]
-	},
-	{
-		"name": "Orlhium",
-		"adjective": ["Orlegiums"],
-		"cityStateType": "Maritime",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I have failed. May you, at least, know compassion towards our people.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0, 102,204],
-		"cities": ["Orlhium"]
-	},
-	{
-		"name": "Vanshield",
-		"translatedName": "Vanshield",
-		"adjective": ["Vanshielderite"],
-		"cityStateType": "Maritime",
-
-		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Vanshield, we can have no recourse but war!",
-		"attacked": "As we can reach no peaceful resolution with you, Vanshield must turn, with reluctance, to war.",
-		"defeated": "I regret not defending my country to the last, although it was not of use.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0,255,128],
-		"cities": ["Vancouver"]
-	},
-	{
-		"name": "Eshgor",
-		"adjective": ["Eshagorian"],
-		"cityStateType": "Mercantile",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,255,0],
-		"cities": ["Eshgor"]
-	},
-	{
-		"name": "Gerevnoah",
-		"adjective": ["Gerevnoese"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [45,255,86],
-		"cities": ["Gerevnae"]
-	},
-	{
-		"name": "Dorgainnodus",
-		"adjective": ["Sudnos"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "Let's have a nice little War, shall we?",
-		"attacked": "If you need your nose bloodied, we'll happily serve.",
-		"defeated": "The Sudnos Ghost will never stop haunting you!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,102,102],
-		"cities": ["Suddoronui"]
-	},
-	{
-		"name": "Urukio",
-		"adjective": ["Urukios"],
-		"cityStateType": "Militaristic",
-		"startBias": ["Coast"],
-
-		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
-		"attacked": "Why do we fight? Because Ururo demands it. Now, witness the power of the Urukios!",
-		"defeated": "What treachery has struck us? No, what evil?",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,69,0],
-		"cities": ["Urukio"]
-	},
-	{
-		"name": "Servwhann",
-		"adjective": ["Servws"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "By God's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
-		"defeated": "I for one welcome our new conquer overlord!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [224,224,224],
-		"cities": ["Servor"]
-	},
-	{
-		"name": "Bahaghari",
-		"adjective": ["Bahagharian"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "I didn't want to do this. We declare war.",
-		"attacked": "I will fear no evil. For god is with me!",
-		"defeated": "Why have you forsaken us my lord?",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,255,255],
-		"cities": ["Bahaghari]
 	}
   ]
