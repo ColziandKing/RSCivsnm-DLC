@@ -6,6 +6,7 @@
 		"adjective": ["Netals"],
 		"startBias": ["Hills"],
  	        "preferredVictoryType": "Domination",
+		"favoredReligion": "Tengriism",
 
 		"startIntroPart1": "High & high it be the roar to our king of our ancestors realm. This land where we stand, where our ancestors fought and lost blood & soul. We have kept it out of alien invaders. Who want our people dead for our difference from themselves, should we dominate the outsiders or become allies with them for a nation of nations that has been prophesied for a long time. It was when our rebellious past, left the one and only truth. Then came that from domination of those who stray in our lands to a change of letting them in our lands and giving them great hospitality",
 		"startIntroPart2": "Prince, O' Future King! Lead us like your heirs and those who lead us before you.",
@@ -37,7 +38,7 @@
 		"adjective": ["Fullysian"],
 		"startBias": ["Grassland","Forest"],
   	        "preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Buddhism",
 
 		"startIntroPart1": "Feared woman with the strength like men. You Ullysia from Colziand is fierce in battles but at what cost? You do it so that it will end, war destroys each other but peace helps each other.",
 		"startIntroPart2": "See? War will once more wage, do what must be done.",
@@ -52,13 +53,14 @@
 		"afterPeace": "From Colziand we voyage to new land, better leave us.",
 		"tradeRequest": "We have an offer.",
 
-	        "outerColor": [114, 0, 0],
-		"innerColor": [255,255,255],
+	        "outerColor": [180, 178, 164],
+		"innerColor": [70, 0, 4],
 
-		"uniqueName": "Fullysianth Song",
-		"uniques": ["Starts with [Animal Husbandry]","Starts with [The Wheel]","[+1 Faith] from [All] tiles [in all cities]",
-			   "+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Mounted] units>",
-			   "Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
+		"uniqueName": "Multiple Strengths",
+		"uniques": ["[+2 Science] in capital", "[+1 Science] in all cities","[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]",
+			   "[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]",
+			   "[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]","[Military] units gain the [Blitz] promotion"
+			   "[Military] units gain the [Ignores terrain cost] promotion","+[50]% Production when constructing [Military] units [in all cities]"],
 
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
 	},
@@ -67,8 +69,8 @@
 		"leaderName": "Ullysia Ryden Gozanlithozz",
 		"adjective": ["Fullysian"],
 		"startBias": ["Grassland","Forest"],
-  	        "preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Christianity",
+  	        "preferredVictoryType": "Scientific",
+		"favoredReligion": "Confucianism",
 
 		"startIntroPart1": "Feared woman with the strength like men. You Ullysia from Colziand is fierce in battles but at what cost? You do it so that it will end, war destroys each other but peace helps each other.",
 		"startIntroPart2": "See? War will once more wage, do what must be done.",
@@ -86,8 +88,11 @@
 	        "outerColor": [114, 0, 0],
 		"innerColor": [255,255,255],
 
-		"uniqueName": "Fullysianth Song",
-		"uniques": ["[Wounded] units deal +[25]% damage","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]"],
+		"uniqueName": "Revolutionary Achievements",
+		"uniques": ["[Wounded] units deal +[25]% damage","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
+			   "[-20]% Culture cost of adopting new Policies","[+2 Culture] from every [Camps]","Starts with [Rifling]","Starts with [Industrialization]",
+			   "Starts with [Chemistry]","Starts with [Navigation]","Starts with [Biology]","[+2 Science] from every [Snow]",
+			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]"],
 
 		"cities": ["Dome Headquarters","Totem Bunkerbase","Polebind"]
 	},
