@@ -26,7 +26,7 @@
 		"uniqueName": "New Beginning",
 		"uniques": ["[+2 Gold] from every [Ocean]","[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
 			"No movement cost to pillage <for [Melee] units>", 
-			   "+[50]% Production when constructing [Walls]",
+			   "+[50]% Production when constructing [Walls]","Units pay only 1 movement point to embark and disembark",
 			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"]"],
 
 		"cities": ["Rasthiobel", "Heroinedia", "Berkion", "Poparfont", "Deskraston", "Marbona", "Gingerwhite", "Simbasi", "Garseng", "Kisamae"]
@@ -87,7 +87,7 @@
 		"innerColor": [255,255,255],
 
 		"uniqueName": "Fullysianth Song",
-		"uniques": [""],
+		"uniques": ["[Wounded] units deal +[25]% damage","[+1 Happiness] from every [Barracks]","[+1 Food] from every [Plantation]"],
 
 		"cities": ["Dome Headquarters","Totem Bunkerbase","Polebind"]
 	},
