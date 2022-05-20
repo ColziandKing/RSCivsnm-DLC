@@ -27,7 +27,7 @@
 		"uniqueName": "New Beginning",
 		"uniques": ["[+2 Gold] from every [Ocean]","[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
 			"No movement cost to pillage <for [Melee] units>", 
-			   "+[50]% Production when constructing [Walls]","Units pay only 1 movement point to embark and disembark",
+			   "+[50]% Production when constructing [Walls] buildings [in all cities]","Units pay only 1 movement point to embark and disembark",
 			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
 
 		"cities": ["Rasthiobel", "Heroinedia", "Berkion", "Poparfont", "Deskraston", "Marbona", "Gingerwhite", "Simbasi", "Garseng", "Kisamae"]
@@ -89,7 +89,7 @@
 		"innerColor": [255, 210, 110],
 
 		"uniqueName": "Revolutionary Achievements",
-		"uniques": ["[Wounded] units deal +[25]% damage","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
+		"uniques": ["+[25]% strength for [Wounded] units","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
 			   "[-20]% Culture cost of adopting new Policies","[+2 Culture] from every [Camps]","Starts with [Rifling]","Starts with [Industrialization]",
 			   "Starts with [Chemistry]","Starts with [Navigation]","Starts with [Biology]","[+2 Science] from every [Snow]",
 			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]"],
