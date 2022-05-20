@@ -22,7 +22,7 @@
 		"tradeRequest": "High Hello to you, I have something to trade with ya.",
 
 	       	"outerColor": [180, 178, 164],
-		"innerColor": [70, 0, 4],],
+		"innerColor": [70, 0, 4],
 
 		"uniqueName": "New Beginning",
 		"uniques": ["[+2 Gold] from every [Ocean]","[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
