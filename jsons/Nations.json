@@ -1,5 +1,5 @@
 [
-	   //Bonuses//
+	   	//Bonuses//
 	{
 		"name": "Cannetalhion",
 		"leaderName": "Ghion the Berkion",
@@ -85,8 +85,8 @@
 		"afterPeace": "From Colziand we voyage to new land, better leave us.",
 		"tradeRequest": "We have an offer.",
 
-	        "outerColor": [0, 255, 255],
-		"innerColor": [45, 60, 120],
+	        "outerColor": [92, 32, 92], 
+		"innerColor": [255, 210, 110],
 
 		"uniqueName": "Revolutionary Achievements",
 		"uniques": ["[Wounded] units deal +[25]% damage","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
@@ -95,5 +95,68 @@
 			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]"],
 
 		"cities": ["Dome Headquarters","Totem Bunkerbase","Polebind"]
+	},
+		//Alternate//
+	{
+		"name": "Saludonia",
+		"leaderName": "Saludo Twin Princesses",
+		"adjective": ["Saludonians"],
+		"startBias": ["Plain","Jungle"],
+  	        "preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Be welcomed, beautiful princesses. You lead the beatiful and joyful nation of Salumi, a country filled more women than men with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Saludonia emerged to a great nation becoming Salumi. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Salumi ought to help other no matter what. Then its capital was then renamed to Saludon.",
+		"startIntroPart2": "Princesses, your people want you to lead them to greatness and the queen supports you. They want you to convert them in to the best nation. Will you make the call? Can you fight and triump over the adversities of life? Can you build a civilization that can stand the pass of time of problems?",
+
+		"declaringWar": "Prepare to lose your empire of opression!",
+		"attacked": "You will see how fruitless this will be for you. Wait and see.",
+		"defeated":  "I hope you treat us well, we are now your servants. May our Saviour show your mercy.",
+		"introduction":  "Greetings! This is Saludonia, our wonderful land. Want a hug?",
+		"neutralHello": "Hello There.",
+		"hateHello": "Hmpph, you ravager!",
+		"tradeRequest": "I have a trade so lets trade.",
+
+	        "outerColor": [127,0,255],
+		"innerColor": [255,0,255],
+
+		"uniqueName": "Twin Power",
+		"uniques": ["+1 Culture, +2 Happiness] from [All] tiles [in all cities]","Starts with [Calendar]","[+2 Gold] from every [Luxury resource]",
+			   "[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+2 Food] from every [Plantation]","Receive a free Social Policy when you advance to the next era",
+			   "[+10]% Strength <when fighting units from a Civilization with more Cities than you>"],
+
+		"cities": ["Saludonia","Saludonio","Libro Saldos","Saludosa","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
+			   "Sophia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
+	},
+	{
+		"name": "Leonorre",
+		"leaderName": "Naomi Cleo Leono",
+		"adjective": ["Leonites"],
+		"startBias": ["Hill"],
+  	        "preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Greetings my lady, its a great honor to serve you. Tragedy fell when the west attacked us and destroyed half the kingdom but you Princess of Steel, slash their swords and walls then soon conquering them. Years you destroyed their land by mining resources until you and the Masters of Iron were stopped by the Rule.",
+		"startIntroPart2": "My princess, you are the gem of war and its kingdom. Will bleed once more like Dugo Rubies for home?",
+
+		"declaringWar": "Prepare to lose, you dull and blunt iron head!",
+		"attacked": "You will see how worthless you are, even God won't use you for something good.",
+		"defeated":  "I hope a stone like you becomes my tool for a succession of greatness.",
+		"introduction":  "Greetings! This the my land of resources. Hey, you seem charmed by my beauty?",
+		"neutralHello": "Hello piece of rock.",
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": "What's the offer?",
+		"afterPeace": "I'll consider this once, but no more next time.",
+		"tradeRequest": "I have something, maybe next time trade your kingdom.",
+
+	        "outerColor": [0,0,0],
+		"innerColor": [0,0,255],
+
+		"uniqueName": "Enduring Heart",
+		"uniques": ["Starts with [Mining]","Starts with [Bronze Working]","[+2 Production] from [All] tiles [in all cities]",
+			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-20]% Culture cost of natural border growth [in all cities]",
+			   "[+2 Production] from every [Strategic resource]","[+20]% Production when constructing [All] wonders [in all cities]",
+			   "[+2 Production] from every [Pasture]", "Cities are razed [3] times as fast"],
+
+		"cities": ["Leonorre","Leo Volt","Seon-Voe","Leono","Leona","Le Nova","Sardaze"]
 	}
   ]
