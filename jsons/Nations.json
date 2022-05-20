@@ -53,8 +53,8 @@
 		"afterPeace": "From Colziand we voyage to new land, better leave us.",
 		"tradeRequest": "We have an offer.",
 
-	        "outerColor": [0],
-		"innerColor": [0],
+	        "outerColor": [37,56,123],
+		"innerColor": [227,225,44],
 
 		"uniqueName": "Multiple Strengths",
 		"uniques": ["[+2 Science] in capital", "[+1 Science] in all cities","[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]",
@@ -85,8 +85,8 @@
 		"afterPeace": "From Colziand we voyage to new land, better leave us.",
 		"tradeRequest": "We have an offer.",
 
-	        "outerColor": [114, 0, 0],
-		"innerColor": [255,255,255],
+	        "outerColor": [0, 255, 255],
+		"innerColor": [45, 60, 120],
 
 		"uniqueName": "Revolutionary Achievements",
 		"uniques": ["[Wounded] units deal +[25]% damage","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
