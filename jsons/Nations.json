@@ -33,24 +33,24 @@
 		"cities": ["Rasthiobel", "Heroinedia", "Berkion", "Poparfont", "Deskraston", "Marbona", "Gingerwhite", "Simbasi", "Garseng", "Kisamae"]
 	},
 	{
-		"name": "Fullysia",
-		"leaderName": "Ullysia Ryden Gozanlithozz",
-		"adjective": ["Fullysian"],
+		"name": "Yanzerhan",
+		"leaderName": "Yanzer Hirothome",
+		"adjective": ["Hanites"],
 		"startBias": ["Coast","Oasis"],
   	        "preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Buddhism",
 
-		"startIntroPart1": "Feared woman with the strength like men. You Ullysia from Colziand is fierce in battles but at what cost? You do it so that it will end, war destroys each other but peace helps each other.",
-		"startIntroPart2": "See? War will once more wage, do what must be done.",
+		"startIntroPart1": "We have been fighting for years now, we will remember the past but change our old ways.
+		"startIntroPart2": "I hope we can alliance ourselves with many good and strong people, lead us son of greatness. I hear an empire called the rule, maybe they can help us.",
 
-		"declaringWar": "Prepare! My people are skilled for this terrains.",
-		"attacked": "You see. Your land will be covered in nature because we will ruin it.",
-		"defeated":  "Raze, puppet or annex? We will be liberated.",
-		"introduction":  "Salutations, I wanna know your kingdom too?",
+		"declaringWar": "Your a threat we will stop you for the world.",
+		"attacked": "I will take over your land and make sure to rule it better.",
+		"defeated":  "We wanted a better future, but you destroyed us.",
+		"introduction":  "Bon, Welcome leader, are your good?",
 		"neutralHello": "Hello There.",
 		"hateHello": "No, I don't wanna hear it.?",
-		"hateLetsHearIt": "Strong like bark, now what?.",
-		"afterPeace": "From Colziand we voyage to new land, better leave us.",
+		"hateLetsHearIt": "Now what?.",
+		"afterPeace": "I hope we go our seperate ways and find the future we hope for.",
 		"tradeRequest": "We have an offer.",
 
 	        "outerColor": [37,56,123],
@@ -62,11 +62,11 @@
 			   "[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]","[Military] units gain the [Blitz] promotion"
 			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]"],
 
-		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
+		"cities": ["Handong","Dongolia","Tathekun","Kakhumutami","Loverelia","Sanchuk","Pingon"]
 	},
 	{
 		"name": "Jerdain Organization",
-		"leaderName": "Ullysia Ryden Gozanlithozz",
+		"leaderName": "Jerdain the Organizer",
 		"adjective": ["Fullysian"],
 		"startBias": ["Grassland","Forest"],
   	        "preferredVictoryType": "Scientific",
