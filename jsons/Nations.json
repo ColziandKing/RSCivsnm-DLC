@@ -90,8 +90,7 @@
 
 		"uniqueName": "Revolutionary Achievements",
 		"uniques": ["+[25]% strength for [Wounded] units","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
-			   "[-20]% Culture cost of adopting new Policies","[+2 Culture] from every [Camps]","Starts with [Rifling]","Starts with [Industrialization]",
-			   "Starts with [Chemistry]","Starts with [Navigation]","Starts with [Biology]","[+2 Science] from every [Snow]",
+			   "[-20]% Culture cost of adopting new Policies","[+2 Culture] from every [Camps]","Starts with [Rifling]","[+2 Science] from every [Snow]",
 			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]","[-40]% Culture cost of adopting new Policies"],
 
 		"cities": ["Dome Headquarters","Totem Bunkerbase","Polebind"]
