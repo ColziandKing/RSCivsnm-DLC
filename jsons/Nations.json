@@ -26,7 +26,7 @@
 
 		"uniqueName": "New Beginning",
 		"uniques": ["[+2 Gold] from every [Ocean]","[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
-			"No movement cost to pillage <for [Melee] units>", 
+			"No movement cost to pillage <for [Melee] units>","[-40]% Culture cost of adopting new Policies", 
 			   "+[50]% Production when constructing [Walls] buildings [in all cities]","Units pay only 1 movement point to embark and disembark",
 			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
 
@@ -59,7 +59,7 @@
 		"uniqueName": "Multiple Strengths",
 		"uniques": ["[+2 Science] in capital", "[+1 Science] in all cities","[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]",
 			   "[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]",
-			   "[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]","[Military] units gain the [Blitz] promotion"
+			   "[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]","[Military] units gain the [Blitz] promotion","[-40]% Culture cost of adopting new Policies",
 			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]"],
 
 		"cities": ["Handong","Dongolia","Tathekun","Kakhumutami","Loverelia","Sanchuk","Pingon"]
@@ -67,22 +67,22 @@
 	{
 		"name": "Jerdain Organization",
 		"leaderName": "Jerdain the Organizer",
-		"adjective": ["Fullysian"],
+		"adjective": ["Organs"],
 		"startBias": ["Grassland","Forest"],
   	        "preferredVictoryType": "Scientific",
 		"favoredReligion": "Confucianism",
 
-		"startIntroPart1": "Feared woman with the strength like men. You Ullysia from Colziand is fierce in battles but at what cost? You do it so that it will end, war destroys each other but peace helps each other.",
-		"startIntroPart2": "See? War will once more wage, do what must be done.",
+		"startIntroPart1": "This is an important agenda, we were gifted the knowledge rifling. We are going to discover and dominate it all.",
+		"startIntroPart2": "See? War will soon begin, we must make our name.",
 
-		"declaringWar": "Prepare! My people are skilled for this terrains.",
-		"attacked": "You see. Your land will be covered in nature because we will ruin it.",
-		"defeated":  "Raze, puppet or annex? We will be liberated.",
-		"introduction":  "Salutations, I wanna know your kingdom too?",
+		"declaringWar": "Prepare! My warfare surpasses you.",
+		"attacked": "Gahh! Come here and fight.",
+		"defeated":  "Were lost.",
+		"introduction":  "How do you doo? We are currently hiring.",
 		"neutralHello": "Hello There.",
 		"hateHello": "No, I don't wanna hear it.?",
-		"hateLetsHearIt": "Strong like bark, now what?.",
-		"afterPeace": "From Colziand we voyage to new land, better leave us.",
+		"hateLetsHearIt": "Ok fine, now what?.",
+		"afterPeace": "It's time for a rest.",
 		"tradeRequest": "We have an offer.",
 
 	        "outerColor": [92, 32, 92],
@@ -92,7 +92,7 @@
 		"uniques": ["+[25]% strength for [Wounded] units","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
 			   "[-20]% Culture cost of adopting new Policies","[+2 Culture] from every [Camps]","Starts with [Rifling]","Starts with [Industrialization]",
 			   "Starts with [Chemistry]","Starts with [Navigation]","Starts with [Biology]","[+2 Science] from every [Snow]",
-			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]"],
+			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]","[-40]% Culture cost of adopting new Policies"],
 
 		"cities": ["Dome Headquarters","Totem Bunkerbase","Polebind"]
 	},
