@@ -81,7 +81,7 @@ EmojiIcons/Great Artist
   orig: 50, 50
   offset: 0, 0
   index: -1
-EmojiIcons/Great Engineer1
+CityStateIcons/Productive 
   rotate: false
   xy: 1224, 1052
   size: 50, 50
@@ -102,7 +102,7 @@ EmojiIcons/Great Merchant
   orig: 50, 50
   offset: 0, 0
   index: -1
-EmojiIcons/Great Scientist1
+CityStateIcons/Scientific
   rotate: false
   xy: 1398, 1226
   size: 50, 50
@@ -116,14 +116,14 @@ EmojiIcons/Happiness
   orig: 50, 50
   offset: 0, 0
   index: -1
-CityStateIcons/Productive
+CityStateIcons/Productive1
   rotate: false
   xy: 1398, 1052
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-CityStateIcons/Scientific
+CityStateIcons/Scientific1
   rotate: false
   xy: 1572, 1226
   size: 50, 50
