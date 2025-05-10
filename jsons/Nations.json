@@ -244,7 +244,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [54,102,255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Islamabad"]
     },
     {
@@ -257,7 +258,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [172, 30, 185],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Kampala"]
     },
     {
@@ -270,7 +272,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Lima"]
     },
     {
@@ -283,7 +286,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Lusaka"]
     },
     {
@@ -296,7 +300,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [128, 179, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Mogadishu"]
     },
     {
@@ -309,7 +314,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Ormus"]
     },
     {
@@ -322,7 +328,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 128],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Panama City"]
     },
     {
@@ -335,7 +342,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [255, 217, 143],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Paramaribo"]
     },
     {
@@ -348,7 +356,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [25,75,235],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Phnom Penh"]
     },
     {
@@ -361,7 +370,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Port-au-Prince"]
     },
     {
@@ -415,7 +425,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Colombo"]
     },
     {
@@ -441,7 +452,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [255, 217, 143],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Gaborone"]
     },
     {
@@ -454,7 +466,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [54, 102, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Hong Kong"]
     },
     {
@@ -480,7 +493,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Malacca"]
     },
     {
@@ -493,7 +507,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [128, 179, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Maseru"]
     },
     {
@@ -506,7 +521,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Mohenjo-Daro"]
     },
     {
@@ -519,7 +535,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 128],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Singapore"]
     },
     {
@@ -532,7 +549,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [0, 163, 181],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Tallinn"]
     },
     {
@@ -545,7 +563,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [230, 166, 82],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Trieste"]
     },
     {
@@ -558,7 +577,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Vaduz"]
     },
     {
@@ -571,7 +591,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Zurich"]
     },
     {
@@ -597,7 +618,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [172, 30, 185],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Colchis"]
     },
     {
@@ -610,7 +632,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Cyrene"]
     },
     {
@@ -623,7 +646,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Harappa"]
     },
     {
@@ -636,7 +660,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Havana"]
     },
     {
@@ -649,7 +674,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [125, 224, 0],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Tirana"]
     },
     {
@@ -662,7 +688,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Troy"]
     },
     {
@@ -675,7 +702,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 43],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Valletta"]
     },
     {
@@ -740,7 +768,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [25, 75, 235],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Geneva"]
     },
     {
@@ -753,7 +782,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [179, 179, 179],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Ife"]
     },
     {
@@ -766,7 +796,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [196, 87, 255],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Kathmandu"]
     },
     {
@@ -779,7 +810,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [18, 204, 245],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["La Venta"]
     },
     {
@@ -792,7 +824,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [255, 255, 128],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Qufu"]
     },
     {
@@ -805,7 +838,8 @@
         "outerColor": [0, 0, 0],
         "innerColor": [128, 255, 128],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
         "cities": ["Sarajevo"]
     },
     {
