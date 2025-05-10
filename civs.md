@@ -1,4 +1,26 @@
 [
+    "Buddhism",
+    "Protestantism",
+    "Confucianism",
+    "Hinduism",
+    "Sunni Islam",
+    "Judaism",
+    "Shinto",
+    "Sikhism",
+    "Taoism",
+    "Tengriism",
+    "Zoroastrianism",
+    "Eastern Orthodoxy",
+    "Catholicism",
+    "Lutheranism",
+    "Shia Islam",
+    "Wahhabism",
+    "Yoruba religion",
+    "Bahaʼi Faith",
+    "Hoahaoism",
+    "Brahmanism",
+    "Jainism"
+][
 	   	//Bonuses//
 	{
 		"name": "Cannetalhion",
