@@ -868,4 +868,18 @@
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
         "cities": ["Wittenberg"]
     },
+	{
+		"name": "Ferrix",
+		"adjective": ["Ferrix"],
+		"cityStateType": "Productive",
+		
+		"declaringWar": "The Empire is a disease that thrives in darkness, it is never more alive than when we asleep. It’s easy for the dead to tell you to fight, and maybe it’s true, maybe fighting is useless. Perhaps it’s too late. But I’ll tell you this, if I could do it again, I’d wake up early and be fighting those bastards from the start! Fight the Empire!",
+		"attacked": "But we were sleeping. I’ve been sleeping. And I’ve been turning away from the truth I wanted not to face. There is a wound that won’t heal at the center of the galaxy. There is a darkness reaching like rust into everything around us. We let it grow, and now it’s here. It’s here and it’s not visiting anymore. It wants to stay.",
+		"defeated": "Stone and Sky.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204, 102, 0],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
+		"cities": ["Ferrix"]
+	},
 ]
