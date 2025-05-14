@@ -1,7 +1,7 @@
 {
 	"isBaseRuleset": "false",
-	"modUrl": "https://github.com/ArchDuque-Pancake/Barbarian-xp-farm",
-	"author": "ArchDuque-Pancake",
+	"modUrl": "https://github.com/ColziandKing/RSCnity",
+	"author": "ColziandKing",
 	"constants": {
 		"maxXPfromBarbarians": 500,
     "religionLimitBase":3,
