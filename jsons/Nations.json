@@ -57,12 +57,8 @@
         "innerColor": [190, 146, 61],
         "uniqueName": "Saint Elesbaan's Blessing",
         "uniques": [
-            // Something Something Religion goes to every city immedietely
-            // Something Something Religion doesn't spread to other cities
-            //Note: this requires a unique regarding what it spreads to, not from
-            //"[-999]% Natural religion spread [in enemy cities]",
-            //"[+10000]% Natural religion spread [in your cities] <for [2] turns> <upon founding a Religion>"
-        ],
+            "Gain a free [Monument] [in all cities]","[+2 Food] [in capital]"
+	],
         "cities": [
             "Aksum","Adulis","Qohaito","Matara","Yeha","Hawulti","Massawa","Zeila","Lalibela","Addi Galamo",
             "Tokonda","Tiya","Deira","Berbera","Melazo","Hawila","Fikya","Sabea","Kaskase","Debre Berhan",
@@ -284,9 +280,9 @@
         "tradeRequest": "I see you admire my new damask. Nobody should say that I am an unjust woman. Let's reach an agreement!",
         "outerColor": [234,0,0],
         "innerColor": [255,255,255],
-        "uniqueName": "Diplomatic Marriage",
-        "uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"],
-        "cities": [
+        "uniqueName": "Capital Governance",
+        "uniques": ["Provides a [Coffee House] in your first [5] cities for free"],
+	    "cities": [
             "Vienna","Salzburg","Graz","Linz","Klagenfurt","Bregenz","Innsbruck","Kitzbühel","St. Pölten","Eisenstadt",
             "Villach","Zwettl","Traun","Wels","Dornbirn","Feldkirch","Amstetten","Bad Ischl","Wolfsberg","Kufstein",
             "Leoben","Klosterneuburg","Leonding","Kapfenberg","Hallein","Bischofshofen","Waidhofen","Saalbach","Lienz","Steyr"
