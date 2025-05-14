@@ -1,0 +1,10 @@
+{
+	"isBaseRuleset": "false",
+	"modUrl": "https://github.com/ArchDuque-Pancake/Barbarian-xp-farm",
+	"author": "ArchDuque-Pancake",
+	"constants": {
+		"maxXPfromBarbarians": 500,
+    "religionLimitBase":3,
+    "religionLimitMultiplier":1,
+  }
+}
