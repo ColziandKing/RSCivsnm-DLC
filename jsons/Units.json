@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Comrade", 
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Aleksandria",
+		"movement": 2,
+		"strength": 32,
+		"cost": 329,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Replaceable Parts",
+		"promotions": ["[Comrade] ability", "March"],
+		"attackSound": "shot"
+	},
+
+]
