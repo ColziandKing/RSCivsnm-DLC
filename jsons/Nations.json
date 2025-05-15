@@ -44,6 +44,40 @@
 		"Veragrad","Morozburg","Medvedkar"],
 	"spyNames": ["Irina", "Yaroslav", "Vera", "Nikita", "Yelizaveta", "Yevgeny", "Aleksandra", "Vadim", "Adelina", "Maksim"]
 },	
+    {
+        "name": "Brunei",
+        "leaderName": "Bolkiah",
+        "adjective": ["Brunei"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "Prepare for war!",
+        "attacked": "You shall regret this!",
+        "defeated": "The victory is yours.",
+        "introduction": "Salam, leader of the nation. I am the Sultan and Yang di-Pertuan Of Brunei and the Prime Minister Of Brunei. What brings you here to the land of wealth?",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "Come, let us sign a trade agreement!",
+        "outerColor": [8, 0, 54],
+        "innerColor": [228, 134, 228],
+        "uniqueName": "Sea Nomads",
+        "uniques": [
+            "Comment [-33% maintenance costs for Water units]",
+            "Comment [Water units may heal outside of friendly territory]",
+            "Comment [Water units can build Water improvements on tiles]",
+            "[Water] units gain the [Sea Nomads] promotion <hidden from users>",
+            "[Water] units gain the [Supply] promotion <hidden from users>"
+        ],
+        "cities": [
+            "Bandar Brunei","Manila","Sulu","Cebu","Maguindanao","Sarawak","Idjang","Palawan","Madja-As",
+            "Butuan","Lanao","Dapitan","Banjarmasin","Pontianak","Cainta","Caboloan","Samtoy","Ibalon","Igorot",
+            "Namayan","Maimbung","Kota Batu","Santubong","Kuching","Labuan","Seludong","Pampanga","Laguna"
+        ],
+        "spyNames": [
+            "Adityawarman","Airlangga","Citra","Halayudha","Jayakatwang","Lingga","Mahendradatta","Prapana","Raden","Devi"
+        ]
+    },
 
 	// City-States
 	{
@@ -902,6 +936,36 @@
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Antioch"]
+	},
+	{
+		"name": "Tondo",
+		"adjective": ["Tagalog"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 0, 0],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"cities": ["Tondo"]
+	},
+	{
+		"name": "Ma-I",
+		"adjective": ["Mangyan"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204, 0, 0],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"cities": ["Ma-I"]
 	},
 	{
 		"name": "Timbuktu",
