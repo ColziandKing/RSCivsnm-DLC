@@ -1,4 +1,17 @@
 
+game55.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Prasat
+  rotate: false
+  xy: 1044, 600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
 ConstructionIcons.png
 size: 2048, 2048
 format: RGBA8888
