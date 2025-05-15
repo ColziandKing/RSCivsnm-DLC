@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Katorga",
+		"replaces": "Workshop",
+		"uniqueTo":"Aleksandria",
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Metal Casting",
+		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+2 Food] [in this city] <within [2] tiles of a [Tundra]>"]
+	},
+	{
+		"name": "Prasat",
+		"replaces": "Castle",
+		"uniqueTo": "Siam",
+		"faith": 2,
+		"maintenance": 1,
+		"specialistSlots": {"Artist": 1, "Engineer": 1},
+		"cityStrength": 7,
+		"cityHealth": 25,
+       		"cost": 200,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["Provides 1 Artist and 1 Engineer specialist slots."],
+		"requiredTech": "Chivalry"
+	},
+]
