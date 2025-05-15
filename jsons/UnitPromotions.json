@@ -1,0 +1,192 @@
+[
+
+	// Uniques that should be kept on upgrades
+	{
+		"name": "Morale", // Heroic Epic
+		"uniques": ["[+10]% Strength <while the empire is happy>", "[+5] HP when healing <while the empire is happy>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Great Generals I", // only for Keshik and subsequent upgrades
+		"uniques": ["[Great General] is earned [50]% faster", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Great Generals II", // only for Samurai and subsequent upgrades
+		"uniques": ["[Great General] is earned [100]% faster", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Quick Study", // only for Keshik and subsequent upgrades
+		"uniques": ["[+50]% XP gained from combat", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
+		"uniques": ["All healing effects doubled", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
+		"uniques": ["Withdraws before melee combat <with [50]% chance>", "Can move after attacking", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
+		"uniques": ["[+25]% Strength <when attacking>", "[-15]% Strength <when defending>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
+		"uniques": ["[+25]% Strength decreasing with distance from the capital", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Mohawk Warrior] ability",
+		"uniques": ["[+25]% Strength <when fighting in [Forest] tiles>", "[+25]% Strength <when fighting in [Jungle] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Jaguar] ability",
+		"uniques": ["No damage penalty for wounded units", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Sacrificial Captives Unique",
+		"uniques": ["Heals [25] damage if it kills a unit", "[This Unit] heals [25] HP <upon conquering a city>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Persian Immortal] ability",
+		"uniques": ["Heals [20] damage if it kills a unit", "[+10] HP when healing", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Conquistador] ability",
+		"uniques": ["[+100]% Strength <when defending> <when [embarked]>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Janissary] ability",
+		"uniques": ["Heals [25] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Sipahi] ability",
+		"uniques": ["No movement cost to pillage", "[+20]% Yield from pillaging tiles", "[+20]% Health from pillaging tiles", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Asafo] ability",
+		"uniques": ["[+10]% Strength <when defending>", "[-50]% maintenance costs", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Cossack] ability",
+		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>", "[+1] Movement", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Hussar] ability",
+		"uniques": ["[+50]% to Flank Attack bonuses", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "[Zero] ability",
+		"uniques": ["[+33]% Strength <vs [Fighter] units>", "Comment [The more its wounded, the more it gets stronger]", "[+10]% Strength <when below [100] HP> <when above [75] HP> <hidden from users>", "[+20]% Strength <when below [76] HP> <when above [50] HP> <hidden from users>", "[+30]% Strength <when below [51] HP> <when above [25] HP> <hidden from users>", "[+40]% Strength <when below [26] HP> <hidden from users>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+                "name": "[Digger] ability",
+                "uniques": ["[1] Movement point cost to embark", "[1] Movement point cost to disembark", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+        },
+	{
+		"name": "Barbarian Unique",
+		"uniques": ["No movement cost to pillage", "Can only heal by pillaging", "Heals [25] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+        {
+		"name": "Climber",
+		"uniques": ["Can pass through impassable tiles", "Double movement in [Hill]", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Mercenary",
+		"uniques": ["Comment [-25% purchase cost]", "Can move immediately once bought", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Guerrilla Tactics Unique",
+		"uniques": ["Ignores terrain cost <in [Friendly Land] tiles>", "Ignores Zone of Control <in [Friendly Land] tiles>", "Can move after attacking", "[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Buffalo Horns I", // only for Ikanda
+		"uniques": ["[+25]% to Flank Attack bonuses", "[+20]% Strength <when defending> <vs [Ranged] units>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+	},
+	{
+		"name": "Buffalo Chest II",
+		"uniques": ["[+25]% to Flank Attack bonuses", "[+20]% Strength <when fighting in [Open terrain] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"prerequisites": ["Buffalo Horns I"],
+		"unitTypes": ["Sword"]
+	},
+	{
+		"name": "Buffalo Loins III",
+		"uniques": ["[+1] Movement", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"],
+		"prerequisites": ["Buffalo Chest II"],
+		"unitTypes": ["Sword"]
+	},
+	{
+		"name": "River Mobility",
+		"uniques": ["Ignores terrain cost <in [River] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"], 
+	},
+	 {
+        "name": "Devout",
+        "uniques": ["Can Spread Religion <[1] additional time(s)>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+    },
+	{
+        "name": "Secularism",
+        "uniques": ["Prevents spreading of religion to the city it is next to", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+    },
+	{
+		"name": "[Privateer] ability",
+		"uniques": ["May capture killed [Water] units <with [75]% chance>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Epic Quest Unique",
+		"uniques": ["[This Unit] gains [5] XP <upon defeating a [Barbarian] unit>", "[This Unit] heals [25] HP <upon defeating a [Barbarian] unit>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+	},
+	{
+		"name": "[Heavy Chariot] ability",
+		"uniques": ["[+25]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"]
+	},
+	{
+		"name": "Blessing of the Idols",
+		"uniques": ["Gain [25] [Faith] <upon defeating a [Military] unit> <(modified by game speed)>", "Heals [25] damage if it kills a unit", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+	},
+	{
+		"name": "Civilized",
+		"uniques": ["[+25]% Strength <vs [Barbarian] units>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+	},
+	{
+		"name": "Organized Warfare Unique",
+		"uniques": ["Can move after attacking", "Ignores Zone of Control", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"], 
+	},
+	{
+		"name": "[Carolean] ability",
+		"uniques": ["[+25]% Strength <when attacking>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+	},
+	{
+		"name": "To the World's End",
+		"uniques": ["[This Unit] heals [25] HP", "[This Unit] gains [3] XP", "Doing so will consume this opportunity to choose a Promotion"],
+        },
+	{
+		"name": "[Druzhina] ability",
+		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles", "[+10]% Strength <when fighting in [Fresh water] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+	},
+	{
+		"name": "[Bowman] ability",
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+10]% XP gained from combat <for [Gran Colombia] Civilizations> <hidden from users>"] 
+	},
+	{
+		"name": "Single City",
+		"uniques": ["[This Unit] is destroyed"] 
+	},
+	{
+		"name": "Terracotta Army Unique",
+		"uniques": ["[This Unit] gains [15] XP", "Doing so will consume this opportunity to choose a Promotion"], 
+        },
+	{
+		"name": "[Comrade] ability",
+		"uniques": ["[+10]% Strength bonus for [Wounded] units within [1] tiles"]
+	},
+	{
+		"name": "[Quinquereme] ability",
+		"uniques": ["Transfer Movement to [Civilian]", "[+50]% XP gained from combat"]
+	},
+	{
+        "name": "Messiah Unique",
+        "uniques": ["Can Spread Religion <[1] additional time(s)>", "Ignores Zone of Control", "May travel on Water tiles without embarking"]
+    },
+]
