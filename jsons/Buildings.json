@@ -1,5 +1,19 @@
 [
     {
+        "name": "Grand Canal of Venice",
+        "cost": 125,
+        "gold": 4,
+        "percentStatBonus": {"gold": 25},
+        "isWonder": true,
+        "uniques": [
+            "Cost increases by [30] per owned city",
+            "Provides [2] [Trade Route]",
+            "[+4 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+4 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
         "name": "Outremer",
         "culture": 2,
         "faith": 2,
@@ -13,6 +27,17 @@
 		"Only available <after adopting [Religious Orders]>"
 	],
         "requiredTech": "Mathematics"
+    },
+    {
+        "name": "Akkadian Library",
+        "replaces": "Library",
+        "uniqueTo": "Akkadia",
+        "hurryCostModifier": 25,
+        "science": 1,
+        "uniques": [
+            "[+1 Science] per [2] population [in this city]"
+        ],
+        "requiredTech": "Writing"
     },
 	{
 		"name": "Katorga",
