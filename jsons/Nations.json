@@ -147,6 +147,35 @@
 			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
 			"Yogyakarta","Bima","Sorong"]
 	},
+    {
+        "name": "Israel",
+        "leaderName": "David",
+        "adjective": ["Israeli"],
+        "startBias": ["Avoid [Coast]"],
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": "May the Lord God bless you, honorable King David, leader of a secular nation called Israel. You succeeded in truly unifying the Israelite tribes, and set up a monarchical government, the first to ever embrace Judaism. Embarked on successful military campaigns against Israel's enemies, you defeated nearby regional entities such as the Philistines, thus creating secure borders for your kingdom. Under your holy guidance, Israel grew into a regional power. Under your House, the united Kingdom of Israel achieved prosperity and superiority over its neighbours. The prosperity of your kingdom would continue under your wise son Solomon.",
+        "startIntroPart2": "King David, your people still lie scattered through the world, longing for a mighty leader to truly unite them. Will you listen their clamor? Will you once again bring the light of the Lord upon the world? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "God has spoken to me, and has told me that war between us has become inevitable!",
+        "attacked": "I have the power of God at my side, so I have no reason to fear you.",
+        "defeated": "My Lord has punished my people, but we shall return to the light.",
+        "introduction": "My blessings to thou, stranger. I am King David, and I guide the people of Israel.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "The Lord smiles upon us both today.",
+        "outerColor": [245, 245, 245],
+        "innerColor": [179, 135, 0],
+        "uniqueName": "The Promised Land",
+        "uniques": ["[+1 Culture] from every [Pasture]","[+1 Faith] from every [Luxury resource]"],
+        "cities": [
+            "Yerushalayim","Hebron","Jericho","Sidon","Bethlehem","Tyre","Nazareth","Kadesh","Zeboim","Admah",
+            "Gaza","Megiddo","Nineveh","Gomorrah","Avaris","Acre","Byblos","Edessa","Beirut","Ascalon","Tripoli",
+            "Cilica","Turbessel","Tarsus","Arduf","Hattin","Nicosia","Limasol","Caesarea","Jaffa","Daron",
+            "Azotus"
+        ],
+        "spyNames": [
+            "Josue","Esther","Judas","Rut","Shammua","Shaphat","Caleb","Joshua","Ammiel","Geuel"
+        ]
+    },
 	{
 		"name": "Nubia",
 		"leaderName": "Amanitore",
@@ -795,8 +824,8 @@
 
 	
 	{
-		"name": "Venice",
-		"adjective": ["Venetian"],
+		"name": "Venezia",
+		"adjective": ["Venezian"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 
@@ -1785,7 +1814,7 @@
 		"cities": ["Munich"]
 	},
 	{
-		"name": "Akkad",
+		"name": "Akkadia",
 		"adjective": ["Akkadian"],
 		"cityStateType": "Scientific",
 		"startBias": ["Flood plains"],
