@@ -1,4 +1,20 @@
 [
+    {
+        "name": "Crusader",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 17,
+        "cost": 105,
+        "requiredTech": "Theology",
+        "promotions": ["Foreign Land Bonus", "Can Enter Rival Territory"],
+        "uniques": [
+            "Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
+        ],
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "requiredResource": "Iron",
+        "attackSound": "metalhit"
+    },
 	{
 		"name": "Comrade", 
 		"unitType": "Gunpowder",
