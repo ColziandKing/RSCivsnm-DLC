@@ -1,4 +1,19 @@
 [
+    {
+        "name": "Outremer",
+        "culture": 2,
+        "faith": 2,
+        "happiness": 2,
+        "hurryCostModifier": 50,
+        "uniques": [
+            "Remove extra unhappiness from annexed cities",
+            "Can only be built <in [Annexed] cities>",
+		"Gain a free [Courthouse] [in this city]", 
+            "[-25]% XP required for promotions",
+		"Only available <after adopting [Religious Orders]>"
+	],
+        "requiredTech": "Mathematics"
+    },
 	{
 		"name": "Katorga",
 		"replaces": "Workshop",
