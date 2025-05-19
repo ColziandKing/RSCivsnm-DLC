@@ -132,6 +132,24 @@
         ]
     },
 	{
+		"name": "Wat",
+		"science": 3,
+		"faith": 2,
+		"culture": 1,
+		"uniques": ["Unbuildable", "Unsellable", "Doubles Gold given to enemy if city is captured",	
+            "May buy [Wat] buildings for [250] [Faith] [in cities following this religion]","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Stupa",
+		"happiness": 2,
+		"faith": 2,
+		"culture": 1,
+		"science": 1,
+		"uniques": ["Unbuildable", "Unsellable",
+            "May buy [Stupa] buildings for [250] [Faith] [in cities following this religion]",
+			"Only available <when religion is enabled>"]
+	},
+	{
 		"name": "Monastery",
 		"culture": 2,
 		"faith": 2,
