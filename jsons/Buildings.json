@@ -48,8 +48,6 @@
         "production": 2,
         "uniques": [
             "Unsellable",
-            "Can be purchased for [170] [Faith] [in all cities]",
-		"Provides [2] [Glass]",
             "Only available <when religion is enabled>",
             "Only available <in cities with a [Meeting Houses] religion>",
         ]
@@ -60,7 +58,6 @@
         "uniques": [
             "Unbuildable","Unsellable",
             "Comment [Has 1 Great Work of Art Slot]",
-            "Can be purchased for [270] [Faith] [in all cities]",
             "Only available <when religion is enabled>",
             "Only available <in cities with a [Cathedrals] religion>"
         ]
