@@ -171,6 +171,7 @@
 			"Doubles Gold given to enemy if city is captured",
 			"Hidden when religion is disabled","Unsellable",
             "Only available <when religion is enabled>",
+            "Will not be displayed in Civilopedia"
 		]
 	},
     {
