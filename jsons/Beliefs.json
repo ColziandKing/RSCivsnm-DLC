@@ -1,4 +1,51 @@
 [
+  {
+        "name": "Meeting Houses",
+        "type": "Follower",
+        "uniques": ["Comment [Unlocks [Meeting House] [in cities following this religion]]"]
+    },
+  {
+        "name": "Monasteries",
+        "type": "Follower",
+        "uniques": ["Comment [Unlocks [Monastery] [in cities following this religion]]"]
+    },
+    {
+        "name": "Synagogues",
+        "type": "Follower",
+        "uniques": ["Comment [Unlocks [Synagogue] [in cities following this religion]]"]
+    },
+    {
+        "name": "Viharas",
+        "type": "Follower",
+        "uniques": ["Comment [Unlocks [Vihara] [in cities following this religion]]"]
+    },
+    {
+        "name": "Mandirs",
+        "type": "Follower",
+        "uniques": ["Comment [Unlocks [Mandir] [in cities following this religion]]"]
+    },
+    {
+        "name": "Mosques",
+        "type": "Follower",
+        "uniques": ["Comment [Unlocks [Mosque] [in cities following this religion]]"]
+    },
+    {
+        "name": "Pagodas",
+        "type": "Follower",
+        "uniques": ["Comment [Unlocks [Pagoda] [in cities following this religion]]"]
+    },
+ {
+        "name": "Gurdwaras",
+        "type": "Follower",
+        "uniques": [
+            "May buy [Gurdwaras] buildings for [250] [Faith] [in cities following this religion]"]
+    },
+ {
+        "name": "Cathedrals",
+        "type": "Follower",
+        "uniques": [
+            "May buy [Cathedral] buildings for [250] [Faith] [in cities following this religion]"]
+    },
  {
         "name": "Sacred Sites",
         "type": "Enhancer",
@@ -14,6 +61,17 @@
             "[+2 Gold, +2 Culture, +2 Faith] from every [Meeting House]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Wat]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Stupa]",
+            "May buy [Cathedral] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Wat] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Stupa] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Monastery] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Vihara] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Pagoda] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Synagogue] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Mosque] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Mandir] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Gurdwara] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Meeting House] buildings for [250] [Faith] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
     },
