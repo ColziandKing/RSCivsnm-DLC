@@ -170,7 +170,6 @@
 		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"Doubles Gold given to enemy if city is captured",
 			"Hidden when religion is disabled","Unsellable",
-            "Can be purchased for [225] [Faith] [in all cities]",
             "Only available <when religion is enabled>",
 		]
 	},
