@@ -163,6 +163,7 @@
 	{
 		"name": "Georgian Monastery",
 		"replaces": "Monastery",
+        "uniqueTo": "Georgia",
 		"cost": 120,
 		"culture": 3,
 		"faith": 3,
@@ -190,6 +191,7 @@
 	{
         "name": "Georgian Meeting House",
 	"replaces": "Meeting House",
+        "uniqueTo": "Georgia",
 	"cost": 80,
         "faith": 3,
         "production": 3,
