@@ -4,7 +4,5 @@
 	"author": "ColziandKing",
 	"constants": {
 		"maxXPfromBarbarians": 500,
-    "religionLimitBase":3,
-    "religionLimitMultiplier":1,
   }
 }
