@@ -1,8 +1,13 @@
 {
 	"isBaseRuleset": "false",
+	"Allow City States to spawn with additional units": "true",
+	"Can trade civilization introductions for [100] Gold": "true",
+	"Allow raze capital": "true",
+	"Allow raze holy city": "true",
 	"modUrl": "https://github.com/ColziandKing/RSCnity",
 	"author": "ColziandKing",
 	"constants": {
+    "religionLimitBase":5,
 		"maxXPfromBarbarians": 500,
   }
 }
