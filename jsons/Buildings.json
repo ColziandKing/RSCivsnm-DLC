@@ -49,6 +49,7 @@
         "uniques": [
             "Unsellable","Unbuildable",
             "Can be purchased for [170] [Faith] [in all cities]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
         ]
     },
@@ -59,6 +60,7 @@
             "Unbuildable","Unsellable",
             "Can be purchased for [270] [Faith] [in all cities]",
             "Comment [Has 1 Great Work of Art Slot]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
         ]
     },
@@ -71,6 +73,7 @@
             "Unbuildable","Unsellable",
             "Can be purchased for [150] [Faith] [in all cities]",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <in cities with a [Mosques] religion>"
         ]
     },
@@ -83,6 +86,7 @@
             "Unbuildable","Unsellable",
             "[10]% Food is carried over after population increases [in this city]",
             "Can be purchased for [200] [Faith] [in all cities]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
         ]
     },
@@ -95,6 +99,7 @@
         "uniques": [
             "Unbuildable","Unsellable",
             "Can be purchased for [270] [Faith] [in all cities]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
         ]
     },
@@ -107,6 +112,7 @@
             "Unbuildable","Unsellable",
             "[+15]% Production when constructing [All] buildings [in this city]",
             "Can be purchased for [200] [Faith] [in all cities]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
         ]
     },
@@ -119,6 +125,7 @@
             "Unbuildable","Unsellable",
             "[+15]% [Gold] [in this city]",
             "Can be purchased for [150] [Faith] [in all cities]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
         ]
     },
@@ -128,6 +135,7 @@
             "Unbuildable","Unsellable",
             "[+1 Food, +1 Production] from [Luxury resource] tiles [in this city]",
             "Can be purchased for [270] [Faith] [in all cities]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
         ]
     },
@@ -137,7 +145,8 @@
 		"faith": 2,
 		"culture": 1,
 		"uniques": ["Unbuildable", "Unsellable", "Doubles Gold given to enemy if city is captured",	
-            "May buy [Wat] buildings for [250] [Faith] [in cities following this religion]","Only available <when religion is enabled>"]
+            "May buy [Wat] buildings for [250] [Faith] [in cities following this religion]",
+		"Only available <after adopting [Organized Religion]>","Only available <when religion is enabled>"]
 	},
 	{
 		"name": "Stupa",
@@ -146,6 +155,7 @@
 		"culture": 1,
 		"science": 1,
 		"uniques": ["Unbuildable", "Unsellable",
+		"Only available <after adopting [Organized Religion]>",
             "May buy [Stupa] buildings for [250] [Faith] [in cities following this religion]",
 			"Only available <when religion is enabled>"]
 	},
@@ -157,11 +167,13 @@
 			"Doubles Gold given to enemy if city is captured","Unbuildable",
 			"Hidden when religion is disabled","Unsellable",
             "Can be purchased for [225] [Faith] [in all cities]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
 		]
 	},
 	{
 		"name": "Georgian Monastery",
+        "requiredTech": "Philosophy",
 		"replaces": "Monastery",
         "uniqueTo": "Georgia",
 		"cost": 120,
@@ -171,11 +183,13 @@
 			"Doubles Gold given to enemy if city is captured",
 			"Hidden when religion is disabled","Unsellable",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
 		]
 	},
     {
         "name": "Georgian Cathedral",
+        "requiredTech": "Philosophy",
         "replaces": "Cathedral",
         "uniqueTo": "Georgia",
         "cost": 135,
@@ -185,12 +199,14 @@
             "Unsellable",
             "Comment [Has 1 Great Work of Art Slot]",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
         ]
     },
 	{
         "name": "Georgian Meeting House",
 	"replaces": "Meeting House",
+        "requiredTech": "Philosophy",
         "uniqueTo": "Georgia",
 	"cost": 80,
         "faith": 3,
@@ -198,6 +214,7 @@
         "uniques": [
             "Unsellable",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
         ]
     },
@@ -205,6 +222,7 @@
         "name": "Georgian Mosque",
         "replaces": "Mosque",
         "uniqueTo": "Georgia",
+        "requiredTech": "Philosophy",
         "cost": 75,
         "culture": 1,
         "faith": 3,
@@ -213,6 +231,7 @@
         "uniques": [
             "Unsellable",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia",
         ]
     },
@@ -225,10 +244,12 @@
         "production": 2,
         "culture": 1,
         "happiness": 1,
+        "requiredTech": "Philosophy",
         "uniques": [
             "Unsellable",
             "[10]% Food is carried over after population increases [in this city]",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
         ]
     },
@@ -242,9 +263,11 @@
         "production": 2,
         "science": 4,
         "happiness": 1,
+        "requiredTech": "Philosophy",
         "uniques": [
             "Unsellable",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
         ]
     },
@@ -256,10 +279,12 @@
         "culture": 1,
         "faith": 2,
         "production": 3,
+        "requiredTech": "Philosophy",
         "uniques": [
             "Unsellable",
             "[+15]% Production when constructing [All] buildings [in this city]",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
         ]
     },
@@ -267,6 +292,7 @@
         "name": "Georgian Vihara",
         "replaces": "Vihara",
         "uniqueTo": "Georgia",
+        "requiredTech": "Philosophy",
         "cost": 75,
         "faith": 1,
         "production": 2,
@@ -276,21 +302,25 @@
             "Unsellable",
             "[+15]% [Gold] [in this city]",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
         ]
     },
     {
         "name": "Georgian Mandir",
+        "requiredTech": "Philosophy",
         "production": 2,
         "uniques": [
             "Unbuildable","Unsellable",
             "[+1 Food, +1 Production] from [Luxury resource] tiles [in this city]",
             "Can be purchased for [270] [Faith] [in all cities]",
+		"Only available <after adopting [Organized Religion]>",
             "Only available <when religion is enabled>",
         ]
     },
     {
         "name": "Georgian Stupa",
+        "requiredTech": "Philosophy",
         "replaces": "Stupa",
         "uniqueTo": "Georgia",
         "cost": 100,
@@ -301,6 +331,7 @@
         "uniques": [
             "Unsellable",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
         ]
     },
@@ -308,6 +339,7 @@
         "name": "Georgian Wat",
         "replaces": "Wat",
         "uniqueTo": "Georgia",
+        "requiredTech": "Philosophy",
         "cost": 100,
 		"science": 4,
 		"faith": 2,
@@ -316,6 +348,7 @@
             "Unsellable",
 			"Doubles Gold given to enemy if city is captured","Unbuildable",
             "Only available <when religion is enabled>",
+		"Only available <after adopting [Organized Religion]>",
             "Will not be displayed in Civilopedia"
         ]
     },
