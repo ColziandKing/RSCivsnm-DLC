@@ -122,6 +122,69 @@
         ]
     },
 	{
+		"name": "Colziand",
+		"leaderName": "Raymond Sheen Caballero",
+		"adjective": ["Colzians"],
+          	"startBias": ["Coast","Grassland"],
+		"preferredVictoryType": "Diplomatic",
+	  	"favoredReligion": "Christianity",
+	  
+		"startIntroPart1": "Oh Raymond! You who formed a nation of people for God to saved, glorious you are. Thanks be to the mighty Father, you've united people from different places and colors. Lastly the rule which is far beyond greater than any empire, so this empire of empire is not like any other.",
+                "startIntroPart2": "Honored kingly Colziand, the people have long admired the steady hand of governance you wield. Will you conquer all those who oppose you, or strive for peaceful relations? Quote: 'It is much more blessed to give, than to receive.' Will you once more rule the world for the Lord's will be done?",
+	  	
+		"declaringWar": "Hence, Forth! Fight the philistines, save the peoples of Palestine whether Jew or not",
+		"attacked": "I'm dissapointed! Why declare destruction, is there no fun in peace and prosperity?",
+		"defeated": "Colziand is its people, me, and Him.",
+		"introduction": "Kumusta sa'inyo. O estranghero, saan ka galing?",
+		"neutralHello": "Oh greeting high above",
+		"hateHello": "You speak in pride, I don't wanna hear it",
+		"tradeRequest": "It appears that you have a golden interest of our goods",
+		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Colvian", "Caballeron", "Lead-Diah", "Davao", "Ravdon Mond", "Sabert Zhang", 
+			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno", "America"],
+		"outerColor": [255,128,0],
+		"innerColor": [255,255,0], 
+		"uniqueName": "Allied Domain Rule",
+		"uniques": [
+			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
+			"Science gained from research agreements [+25]%","Free Social Policy <upon entering a new era>",
+			"Provides [1] [Glass]","Cannot build [Scout] units <hidden from users>","Cannot build [Archery] units <hidden from users>",
+		],
+		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
+	},
+	{
+		"name": "Fullysia",
+		"leaderName": "Ullysia Ryden Gozanlithozz",
+		"adjective": ["Fullysian"],
+		"startBias": ["Grassland","Forest"],
+  	        "preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Feared woman with the strength like men. You Ullysia from Colziand is fierce in battles but at what cost? You do it so that it will end, war destroys each other but peace helps each other.",
+		"startIntroPart2": "See? War will once more wage, do what must be done.",
+
+		"declaringWar": "Prepare! My people are skilled for this terrains.",
+		"attacked": "You see. Your land will be covered in nature because we will ruin it.",
+		"defeated":  "Raze, puppet or annex? We will be liberated.",
+		"introduction":  "Salutations, I wanna know your kingdom too?",
+		"neutralHello": "Hello There.",
+		"hateHello": "No, I don't wanna hear it.?",
+		"hateLetsHearIt": "Strong like bark, now what?.",
+		"afterPeace": "From Colziand we voyage to new land, better leave us.",
+		"tradeRequest": "We have an offer.",
+
+	        "outerColor": [114, 0, 0],
+		"innerColor": [255,255,255],
+
+		"uniqueName": "Fullysianth Song",
+		"uniques": [
+                    "Quantity of strategic resources produced by the empire +[50]%",
+                    "[+2 Food] [in all cities connected to capital]","Provides [1] [Porcelain]",
+      "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
+		],
+		"spyNames": ["Ullysia"],
+		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
+	},
+	{
 		"name": "Indonesia",
 		"leaderName": "Gajah Mada",
 		"adjective": ["Indonesian"],
@@ -204,6 +267,40 @@
 		"uniques": ["[+33]% Production when constructing [Archery] units [in all cities]", "[+50]% XP gained from combat <for [Archery] units>", "[Archery] units gain the [Accuracy I] promotion"],
 		"cities": ["Meroë","Napata","Kerma","Miam","El-Kurru","Abu Simbel","Pachoras","Buhen","Nuri","Kawa","Soleb","Wad ban Naqa","Debba","Sadeinga","Iken","Buhen","Faras","Pademe","Shaat","Heh","Dengeil","Bugdumbush","Amara","Pedeme"],
 		"spyNames": ["Alara", "Amanirenas", "Apedemak", "Amenirdis", "Arqamani", "Kadimalo", "Mandulis", "Nasala", "Piye", "Tabiry"]
+	},
+	{
+		"name": "Suzainswellia",
+		"leaderName": "Uzaine Anne Caballero",
+		"adjective": ["Swells"],
+		"startBias": ["Coast"],
+  	        "preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Suzerain, queen of Colziand. We are honored to be in your presence and the governor is pleased to meet you again since college and last month's meeting.",
+		"startIntroPart2": "Dear Suzerain, queen of Colziand, we are in no position to ask you but guide us and teach us the things we do not deserve, for we need you.",
+
+		"declaringWar": "Our ships will end these wages of sin!",
+		"attacked": "I want you to see now that your land will be sunk by our waves of attacks.",
+		"defeated":  "It looks like we sunked.",
+		"introduction":  "Waves as high as heavens I introduce you to our home.",
+		"neutralHello": "I wave to you.",
+		"hateHello": "May the wrath of God bash waves at your cities and flood your lands?",
+		"hateLetsHearIt": "Got a proposal?.",
+		"afterPeace": "Hey, no hard feelings. Let's not bother each other again.",
+		"tradeRequest": "I have shipments of cargo.",
+
+	        "outerColor": [114, 162, 233],
+		"innerColor": [61, 0, 109],
+
+		"uniqueName": "Diplomatic Missions of International Union",
+		"uniques": [
+                    "[1] free [Diplomat] units appear <upon entering a new era>",
+			"When declaring friendship, both parties gain a [25]% boost to great person generation",
+			"Provides [1] [Jewelry]","[+1 Culture] per [4] population [in all cities]",
+		],
+		"spyNames": ["Uzaine", "Andor", "Vassalia"],
+
+		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa","Lorea"]
 	},
 
 	// City-States
