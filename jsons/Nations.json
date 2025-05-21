@@ -269,6 +269,41 @@
 		"spyNames": ["Alara", "Amanirenas", "Apedemak", "Amenirdis", "Arqamani", "Kadimalo", "Mandulis", "Nasala", "Piye", "Tabiry"]
 	},
 	{
+		"name": "Soviet Union",
+		"leaderName": "Lenin",
+		"adjective": ["Soviet"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Lenin",
+	
+	        "startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "The despicable ways you treat the proletarians are repulsive. I declare a revolution against you!",
+		"attacked": "You cannot suffocate this revolution.",
+		"defeated": "You may have defeated our forces, but you'll never bend our ideals in favour of your exploitation.",
+		"introduction": "Greetings, I am Lenin, leader of the communist revolution. I hope you will join our cause soon, either in one way or in another.",
+		"neutralHello": "Privet.",
+		"hateHello": "What do you need?!",
+		"tradeRequest": "In the name of the revolution, here is a fair offer:",
+		"favoredReligion": "Orthodoxy",
+		
+		"outerColor": [204, 0, 1],
+		"innerColor": [248,215,12],
+		
+		"uniqueName": "Workers Revolution",
+		"uniqueText": "Farms, Plantation, Mines and Quarries yield an additional +1 of their respective stat during a Golden Age\nEmpire enters a Golden age upon completing a policy tree\nGain a free worker upon entering a Golden age",
+		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>",
+		            "Empire enters golden age <upon adopting [Tradition Complete]>", "Empire enters golden age <upon adopting [Liberty Complete]>", "Empire enters golden age <upon adopting [Expansion Complete]>", "Empire enters golden age <upon adopting [Piety Complete]>", "Empire enters golden age <upon adopting [Relations Complete]>",
+		            "Empire enters golden age <upon adopting [Commerce Complete]>", "Empire enters golden age <upon adopting [Rationalism Complete]>", "Empire enters golden age <upon adopting [Individualism Complete]>", "Empire enters golden age <upon adopting [Nationalism Complete]>", "Empire enters golden age <upon adopting [Internationalism Complete]>",
+		            "[1] free [Worker] units appear <upon entering a Golden Age>", "[+1 Food] from every [City center] <during a Golden Age>", "[-1 Food, +1 Production] from every [City center] <in [Hill] tiles> <during a Golden Age>"],
+		"cities": ["Moscow","Leningrad","Stalingrad","Kiev","Kharkov","Minsk","Novosibirsk","Sverdlovsk","Nizhny Novgorod","Tbilisi",
+			"Rostov","Odessa","Vladivostok","Sevastopol","Magnitogorsk","Tashkent","Baku","Dnipropetrovsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Suzdal","Magnitogorsk"],
+		"spyNames": ["Nadezhda", "Lev", "Anna", "Ilya", "Lyubov", "Ivan", "Sofia", "Artyom", "Ksenia", "Dmitry"],
+	},
+	{
 		"name": "Suzainswellia",
 		"leaderName": "Uzaine Anne Caballero",
 		"adjective": ["Swells"],
@@ -301,6 +336,36 @@
 		"spyNames": ["Uzaine", "Andor", "Vassalia"],
 
 		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa","Lorea"]
+	},
+	{
+		"name": "The Confederate States",
+		"leaderName": "Jefferson Davis",
+		"adjective": ["Confederate"],
+		 "startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Jefferson Davis",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "The people of the Confederate States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+		"favoredReligion": "Catholicism",
+
+        "outerColor": [0, 49, 130],
+        "innerColor": [246, 68, 65],
+
+		"uniqueName": "Slave States",
+		"uniqueText": "Plantations yield +50% more of their respective stats\nWorkers cost 25% less [Gold] to be purchased\nCities within 3 tiles of a plantation suffer from 10% more unhappiness from population",
+		"uniques": ["[+50]% Yield from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>", "[Gold] cost of purchasing [Worker] units [-25]%"], 
+		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
+			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
+			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]
 	},
 
 	// City-States
