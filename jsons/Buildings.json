@@ -14,6 +14,18 @@
 	],
         "requiredTech": "Mathematics"
     },
+        {
+		"name": "Smithy",
+		"replaces": "Forge",
+		"uniqueTo": "The Hittites",
+		"maintenance": 0,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Copper", "Gold Ore", "Silver", "Gems", "Iron", "Aluminum"],
+		"requiredTech": "Iron Working",
+		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"],
+		
+	},
 	{
 		"name": "Plantation Estate",
 		"replaces": "Windmill",
