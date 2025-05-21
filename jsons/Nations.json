@@ -217,6 +217,39 @@
 		"spyNames": ["Ullysia", "Syril", "Dedra", "Dilla Nho", "Kennor"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
 	},
+    {
+        "name": "Hittites",
+        "leaderName": "Muwatallis",
+        "adjective": ["Hittite"],
+        "startBias": ["Avoid [Coast]"],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "The Oracle of Hattusa has called: war must be between us, and blood must flow!",
+        "attacked": "If you really want to destroy the oath I had in store for you, then may the Gods destroy you in turn, along with your wives, your sons, your households, and your lands!",
+        "defeated": "Deceptive are you, great God, to come wreathed in the body of a mortal! Your humble servant is ready to be borne to the starlight shore.",
+        "introduction": "Greetings, stranger. I am Muwatallis, King of the Empire Of Hattusa. Have you come to see the Hittites greatest achievement?",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "The King of the Land of Hatti invites you as his brother, to establish peace and fraternity between us in the eyes of the gods.",
+        "outerColor": [199, 176, 97],
+        "innerColor": [92, 43, 43],
+        "uniqueName": "Bronze and Iron",
+        "uniques": [
+            "Starts with [Mining]",
+            "[+1 Gold] from every [Mine]",
+            "[+2 Gold] from every [Mine] <with [3] to [6] neighboring [Mine] tiles>",
+		"Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"
+        ],
+        "cities": [
+            "Hattusa","Nesa","Kussara","Tuwanuwa","Hupisna","Purushanda","Samuha","Lusna","Alacohoyuk","Sapinuwa",
+            "Tunip","Kadesh","Aleppo","Alalakh","Ullama","Nenassa","Nerik","Landa","Hakpis","Arinna",
+            "Hanhana","Gaziura","Sarissa","Kummani","Catalhoyuk","Ankuwa","Karhoyuk","Alisarhoyuk","Zippalanda"
+        ],
+        "spyNames": [
+            "Ibrahim","Bayezid","Sokollu","Mahmut","Uveys","Roxelana","Safiye","Hafsa","Kosem","Nurbanu"
+        ]
+    },
 	{
 		"name": "Holy Roman Empire",
 		"leaderName": "Frederick Barbarossa",
