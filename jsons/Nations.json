@@ -177,8 +177,11 @@
 		"uniqueName": "Allied Domain Rule",
 		"uniques": [
 			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
-			"Science gained from research agreements [+25]%","Free Social Policy <upon entering a new era>",
-			"Provides [1] [Glass]","Cannot build [Scout] units <hidden from users>","Cannot build [Archery] units <hidden from users>",
+			"Science gained from research agreements [+25]%","Cannot build [Warrior] units <hidden from users>",
+            "May buy [Art Hall] buildings for [125] [Faith] [in cities following this religion] <hidden from users>",
+            "May buy [Writing Auditorium] buildings for [125] [Faith] [in cities following this religion] <hidden from users>",
+            "May buy [Vocal Chamber] buildings for [125] [Faith] [in cities following this religion] <hidden from users>",
+			"Cannot build [Scout] units <hidden from users>","Cannot build [Archery] units <hidden from users>",
 		],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
 	},
@@ -209,10 +212,9 @@
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
                     "Quantity of strategic resources produced by the empire +[50]%",
-                    "[+2 Food] [in all cities connected to capital]","Provides [1] [Porcelain]",
-      "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
+                    "[+2 Food] [in all cities connected to capital]","Starts with [Professional Army] adopted",
 		],
-		"spyNames": ["Ullysia"],
+		"spyNames": ["Ullysia", "Syril", "Dedra", "Dilla Nho", "Kennor"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
 	},
 	{
@@ -392,13 +394,12 @@
 	        "outerColor": [114, 162, 233],
 		"innerColor": [61, 0, 109],
 
-		"uniqueName": "Diplomatic Missions of International Union",
+		"uniqueName": "International Diplomatics",
 		"uniques": [
-                    "[1] free [Diplomat] units appear <upon entering a new era>",
 			"When declaring friendship, both parties gain a [25]% boost to great person generation",
-			"Provides [1] [Jewelry]","[+1 Culture] per [4] population [in all cities]",
+			"Free Social Policy <upon entering a new era>","[+1 Culture] per [4] population [in all cities]",
 		],
-		"spyNames": ["Uzaine", "Andor", "Vassalia"],
+		"spyNames": ["Uzaine", "Andor", "Vassalia", "Bix", "Lear"],
 
 		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella","Ceygoa","Lorea"]
 	},
