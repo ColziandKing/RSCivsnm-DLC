@@ -32,6 +32,22 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Druzhina", 
+		"replaces": "Pikeman",
+		"uniqueTo": "Holy Roman Empire",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 16,
+		"cost": 107,
+		"requiredTech": "Military Tactics",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Druzhina] ability"],
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"attackSound": "horse"
+	},
+	{
 		"name": "Sharpshooter",
 		"unitType": "Scout",
 		"uniqueTo": "The Confederate States",
