@@ -178,6 +178,7 @@
 		"uniques": [
 			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
 			"Science gained from research agreements [+25]%","Cannot build [Warrior] units <hidden from users>",
+			"Free Social Policy <upon entering a new era>","Starts with [Professional] adopted",
             "May buy [Art Hall] buildings for [125] [Faith] [in cities following this religion] <hidden from users>",
             "May buy [Writing Auditorium] buildings for [125] [Faith] [in cities following this religion] <hidden from users>",
             "May buy [Vocal Chamber] buildings for [125] [Faith] [in cities following this religion] <hidden from users>",
@@ -212,7 +213,7 @@
 		"uniqueName": "Fullysianth Song",
 		"uniques": [
                     "Quantity of strategic resources produced by the empire +[50]%",
-                    "[+2 Food] [in all cities connected to capital]","Starts with [Professional Army] adopted",
+                    "[+2 Food] [in all cities connected to capital]",
 		],
 		"spyNames": ["Ullysia", "Syril", "Dedra", "Dilla Nho", "Kennor"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
@@ -430,7 +431,7 @@
 		"uniqueName": "International Diplomatics",
 		"uniques": [
 			"When declaring friendship, both parties gain a [25]% boost to great person generation",
-			"Free Social Policy <upon entering a new era>","[+1 Culture] per [4] population [in all cities]",
+			"[+1 Culture] per [4] population [in all cities]",
 		],
 		"spyNames": ["Uzaine", "Andor", "Vassalia", "Bix", "Lear"],
 
