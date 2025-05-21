@@ -35,7 +35,7 @@
 		"name": "Sharpshooter",
 		"unitType": "Scout",
 		"uniqueTo": "The Confederate States",
-		"replaces": "Ranger",
+		"replaces": "Expeditionary Force",
 		"movement": 2,
 		"strength": 20,
 		"rangedStrength": 28,
