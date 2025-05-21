@@ -1,4 +1,17 @@
 
+Fan.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Suzainswellia 
+  rotate: false
+  xy: 740, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
 game55.png
 size: 2048, 1024
 format: RGBA8888
