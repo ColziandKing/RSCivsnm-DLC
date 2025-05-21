@@ -17,6 +17,37 @@
         "attackSound": "metalhit"
     },
 	{
+		"name": "Asafo",
+		"unitType": "Sword",
+		"uniqueTo": "Ashanti",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 66,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"promotions": ["[Asafo] ability"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Sharpshooter",
+		"unitType": "Scout",
+		"uniqueTo": "The Confederate States",
+		"replaces": "Ranger",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 28,
+		"range": 2,
+		"cost": 248,
+		"uniques": ["[+50]% Strength <vs [Siege] units>"],
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Radar",
+		"upgradesTo": "Paratrooper",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Comrade", 
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
@@ -29,6 +60,19 @@
 		"obsoleteTech": "Replaceable Parts",
 		"promotions": ["[Comrade] ability", "March"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "T-34",
+		"unitType": "Armored",
+		"replaces": "Tank",
+		"uniqueTo": "Soviet Union",
+		"movement": 6,
+		"strength": 50,
+		"cost": 619,
+		"requiredTech": "Combined Arms",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
+		"attackSound": "tankshot"
 	},
 
 ]
