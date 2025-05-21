@@ -216,6 +216,40 @@
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran","Nippon"]
 	},
 	{
+		"name": "Holy Roman Empire",
+		"leaderName": "Frederick Barbarossa",
+		"adjective": ["Holy Roman"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Protestantism",
+		"personality": "Frederick Barbarossa",
+		
+		"startIntroPart1": "All hail the Holy Roman Emperor, Frederick I, the legendary Barbarossa! This Empire of yours is a patchwork of 1600 loosely controlled states, each one of them highly autonomous and trying to gain power at the expense of another; being the Emperor was merely a symbol of status, possessing little power. Even then, you aspired to rule as the great emperors of old, and while rulers before you having failed to mantain the power of a Roman Emperor, you managed to overcome the adversity of jealous dukes and wicked popes to rule over your vassals as a true emperor, preventing any hardship, any defeat, any setback to dissuade you.",
+		"startIntroPart2": "Barbarossa, your task is to forge the independent states that surround you into an empire, for it needs a ruler with skill and determination to lift it into greatness! Will you make this Holy Roman Empire be worth of its name? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "You were well warned, but still you seek conflict. Now you will learn your lesson, as many other men have before you!",
+		"attacked": "I have defeated enemies ten times as powerful as you. You will be just one more for the historians.",
+		"defeated": "We were the august and glorious… but no, never mind that. You are victorious. May your reign be more peaceful than mine ever was.",
+		"introduction": "Greetings. I am the Holy Roman Emperor Frederick, King of Germany, Italy, Burgundy, and many others. I trust that you will rule your lands as I do: through might.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		
+		"outerColor": [224,180,0],
+		"innerColor": [45,45,45],
+		
+		"uniqueName": "Free Imperial Cities",
+		"uniqueText": "May not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
+		"uniques": ["May not annex cities", "May buy items in puppet cities", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]"],
+		"cities": ["Aachen","Frankfurt","Magdeburg","Regensburg","Strasbourg","Lübeck","Augsburg","Nuremberg","Munich","Worms","Ulm","Dortmund","Mainz","Leipzig","Hannover","Cologne","Stuttgart","Dusseldorf","Bremen",
+			"Duisburg","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg",
+			"Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+		"spyNames": ["Frederick", "Louis", "Arnulf", "Conrad", "Arnulf", "Heinrich", "Otto", "Rudolf", "Lothair", "Philip"]
+	},
+	{
 		"name": "Indonesia",
 		"leaderName": "Gajah Mada",
 		"adjective": ["Indonesian"],
