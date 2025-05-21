@@ -39,7 +39,7 @@
 		"movement": 4,
 		"strength": 16,
 		"cost": 107,
-		"requiredTech": "Military Tactics",
+		"requiredTech": "Metal Casting",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Druzhina] ability"],
