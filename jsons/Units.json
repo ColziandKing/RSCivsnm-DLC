@@ -17,6 +17,22 @@
         "attackSound": "metalhit"
     },
 	{
+		"name": "Heavy Chariot",
+		"unitType": "Mounted",
+		"uniqueTo": "The Hittites",
+		"replaces": "War Chariot",
+		"cost": 46,
+		"movement": 3,
+		"strength": 11,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
+		"upgradesTo": "Horseman",
+		"obsoleteTech": "Horseback Riding",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-25]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Heavy Chariot] ability"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Asafo",
 		"unitType": "Sword",
 		"uniqueTo": "Ashanti",
@@ -89,6 +105,38 @@
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking", "Destroys tile improvements when attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
 		"attackSound": "tankshot"
+	},	
+	{
+		"name": "Horde",
+		"unitType": "Mounted",
+		"range": 1,
+		"uniqueTo": "Barbarians",
+		"replaces": "War Chariot",
+		"cost": 46,
+		"movement": 3,
+		"strength": 8,
+		"rangedStrength": 10,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Horseman",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty", "[-25]% Strength <vs cities> <when attacking>"],
+		"attackSound": "arrow"
+	},	
+	{
+		"name": "Outlaw",
+		"unitType": "Archery",
+		"uniqueTo": "Barbarians",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 26,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	},
+
+
 
 ]
