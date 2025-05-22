@@ -274,7 +274,6 @@
 		"innerColor": [45,45,45],
 		
 		"uniqueName": "Free Imperial Cities",
-		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your Ally for 15 turns upon discovering Calendar technology. +15% [Culture] and [Science] generation in cities following an enhanced religion during a We Love The King Day\nMay not annex cities, but may buy items in puppet cities\nPuppeted cities do not suffer from [Gold] and [Science] maluses",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [15] turns <upon discovering [Calendar] technology>", 
 			"[+15]% [Science] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>",
 			"[+15]% [Culture] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>",
