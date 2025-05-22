@@ -100,7 +100,6 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Cultural Finesse",
-		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your Ally for 10 turns upon discovering Civil Service technology. Gain an additional +1 [Gold] and +1 [Science] per enacted policy every time you enter a new era\nPolicies are adopted 10% faster\nSpies operate if they were one level more experienced when rigging elections in City-States (when espionage is enabled)\nResting point for Influence with City-States is increased by 10 (when espionage is disabled)",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <upon discovering [Civil Service] technology>", "[+25]% spy effectiveness [in City-State cities]",
 			"[+1 Science, +1 Gold] per [1] social policies adopted <during the [Classical era]>", 
 			"[+2 Science, +2 Gold] per [1] social policies adopted <during the [Medieval era]>", 
