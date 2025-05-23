@@ -100,7 +100,7 @@
 		"innerColor": [255,255,255],
 		
 		"uniqueName": "Cultural Finesse",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <upon discovering [Civil Service] technology>", "[+25]% spy effectiveness [in City-State cities]",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns", "[+25]% spy effectiveness [in City-State cities]",
 			"[+1 Science, +1 Gold] per [1] social policies adopted <during the [Classical era]>", 
 			"[+2 Science, +2 Gold] per [1] social policies adopted <during the [Medieval era]>", 
 			"[+3 Science, +3 Gold] per [1] social policies adopted <during the [Renaissance era]>", 
@@ -274,7 +274,7 @@
 		"innerColor": [45,45,45],
 		
 		"uniqueName": "Free Imperial Cities",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [15] turns <upon discovering [Calendar] technology>", 
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [15] turns", 
 			"[+15]% [Science] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>",
 			"[+15]% [Culture] [in all cities in which the majority religion is an enhanced religion] <during We Love The King Day>",
 			"May not annex cities", "May buy items in puppet cities", "[+25]% [Gold] [in puppeted cities]", "[+25]% [Science] [in puppeted cities]"],
