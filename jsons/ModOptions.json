@@ -12,5 +12,7 @@
     "religionLimitBase": 5,
 		"maxXPfromBarbarians": 500,
 		"naturalWonderCountAddedConstant": 45,
+	"minimalCityDistance": 1,
+	"minimalCityDistanceOnDifferentContinents": 1,
   }
 }
