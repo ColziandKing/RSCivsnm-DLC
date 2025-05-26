@@ -11,6 +11,6 @@
 	"constants": {
     "religionLimitBase": 5,
 		"maxXPfromBarbarians": 500,
-		"naturalWonderCountAddedConstant": 42,
+		"naturalWonderCountAddedConstant": 45,
   }
 }
