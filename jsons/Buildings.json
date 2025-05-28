@@ -14,6 +14,24 @@
 	],
         "requiredTech": "Mathematics"
     },
+    {
+        "name": "Coral Port",
+        "uniqueTo": "Colziand",
+        "replaces": "Workshop",
+        "maintenance": 2,
+        "production": 2,
+        "specialistSlots": {"Engineer": 1},
+        "hurryCostModifier": 25,
+        "percentStatBonus": {"production": 10},
+        "uniques": [
+            "[+2 Production] from [Coral] tiles [in this city]",
+            "[+1 Culture] from [Fish] tiles [in this city]",
+            "[+1 Culture] from [Crab] tiles [in this city]",
+            "[+1 Culture] from [Pearls] tiles [in this city]",
+            "[+2 Gold] from [Whales] tiles [in this city]"
+        ],
+        "requiredTech": "Metal Casting"
+    },
         {
 		"name": "Smithy",
 		"replaces": "Forge",
@@ -132,7 +150,6 @@
             "Can be purchased for [150] [Faith] [in all cities]",
             "Only available <when religion is enabled>",
 		"Only available <after adopting [Organized Religion]>",
-            "Only available <in cities with a [Mosques] religion>"
         ]
     },
     {
