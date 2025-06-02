@@ -1193,21 +1193,6 @@
 		"cities": ["Kathmandu"]
 	},
 	{
-		"name": "Singapore",
-		"adjective": ["Singaporean"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,255,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
-		"cities": ["Singapore"]
-	},
-	{
 		"name": "Kilwa",
 		"adjective": ["Kilwanese"],
 		"cityStateType": "Mercantile",
