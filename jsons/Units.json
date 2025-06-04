@@ -1,41 +1,4 @@
 [
-    {
-        "name": "Crusader",
-        "unitType": "Sword",
-        "movement": 2,
-        "strength": 17,
-        "cost": 105,
-        "requiredTech": "Theology",
-        "promotions": ["Foreign Land Bonus", "Can Enter Rival Territory"],
-        "uniques": [
-            "Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
-		"Only available <after adopting [Religious Orders]>"
-        ],
-        "upgradesTo": "Musketman",
-        "obsoleteTech": "Gunpowder",
-        "requiredResource": "Iron",
-        "attackSound": "metalhit"
-    },
-    {
-        "name": "Dhow",
-        "replaces": "Caravel",
-        "uniqueTo": "Colziand",
-        "unitType": "Melee Water",
-        "movement": 5,
-        "strength": 17,
-        "cost": 105,
-        "requiredTech": "Compass",
-        "upgradesTo": "Ironclad",
-        "obsoleteTech": "Combustion",
-        "promotions": ["Boarding Party I"],
-        "uniques": [
-            "[+1] Sight",
-            "Withdraws before melee combat <with [80]% chance>",
-            "Can move after attacking"
-        ],
-        "hurryCostModifier": 30,
-        "attackSound": "cannon"
-    },
 	{
 		"name": "Heavy Chariot",
 		"unitType": "Mounted",
