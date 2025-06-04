@@ -1851,21 +1851,7 @@
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Atil"]
 	},
-	{
-		"name": "Jerusalem",
-		"adjective": ["Jerusalem"],
-		"cityStateType": "Religious",
-		"startBias": ["Oasis"],
-
-		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
-		"defeated": "I for one welcome our new conquer overlord!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [198,255,192],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
-		"cities": ["Jerusalem"]
-	},
+	
 	{
 		"name": "Chinguetti",
 		"adjective": ["Berber"],
