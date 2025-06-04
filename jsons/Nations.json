@@ -1191,21 +1191,6 @@
 		"cities": ["Kathmandu"]
 	},
 	{
-		"name": "Kilwa",
-		"adjective": ["Kilwanese"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We hope you'll be merciful to our people",
-		"outerColor": [0, 0, 0],
-		"innerColor": [250,128,114],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
-		"cities": ["Kilwa"]
-	},
-	{
 		"name": "Tyre",
 		"adjective": ["Tyrian"],
 		"cityStateType": "Mercantile",
