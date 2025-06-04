@@ -18,6 +18,20 @@ CityStateIcons/Scientific
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Political
+  rotate: false
+  xy: 406, 408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Agrarian
+  rotate: false
+  xy: 406, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 game.png
 size: 2048, 2048
