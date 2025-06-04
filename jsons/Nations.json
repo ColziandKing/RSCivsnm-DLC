@@ -330,7 +330,7 @@
         "outerColor": [245, 245, 245],
         "innerColor": [179, 135, 0],
         "uniqueName": "The Promised Land",
-        "uniques": ["[+1 Culture] from every [Pasture]","[+1 Faith] from every [Luxury resource]"],
+        "uniques": ["[+1 Culture] from every [Pasture]","[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
         "cities": [
             "Yerushalayim","Hebron","Jericho","Sidon","Bethlehem","Tyre","Nazareth","Kadesh","Zeboim","Admah",
             "Gaza","Megiddo","Nineveh","Gomorrah","Avaris","Acre","Byblos","Edessa","Beirut","Ascalon","Tripoli",
