@@ -333,9 +333,7 @@
         "uniques": ["[+1 Culture] from every [Pasture]","[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
         "cities": [
             "Yerushalayim","Hebron","Jericho","Sidon","Bethlehem","Tyre","Nazareth","Kadesh","Zeboim","Admah",
-            "Gaza","Megiddo","Nineveh","Gomorrah","Avaris","Acre","Byblos","Edessa","Beirut","Ascalon","Tripoli",
-            "Cilica","Turbessel","Tarsus","Arduf","Hattin","Nicosia","Limasol","Caesarea","Jaffa","Daron",
-            "Azotus"
+            "Gaza","Megiddo","Nineveh","Gomorrah","Avaris"
         ],
         "spyNames": [
             "Josue","Esther","Judas","Rut","Shammua","Shaphat","Caleb","Joshua","Ammiel","Geuel"
