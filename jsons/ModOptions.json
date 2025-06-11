@@ -5,7 +5,8 @@
 	"Can trade civilization introductions for [100] Gold",
 	"Allow raze capital",
 	"Allow raze holy city",
-        "Can trade technologies for [250] Gold"
+	"Always war",
+        "Allow trading technologies"
     ],
 	"modUrl": "https://github.com/ColziandKing/RSCnity",
 	"author": "ColziandKing",
