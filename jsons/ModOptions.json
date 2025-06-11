@@ -6,7 +6,9 @@
 	"Allow raze capital",
 	"Allow raze holy city",
 	"Always war",
-        "Allow trading technologies"
+        "Allow trading technologies",
+	"Allow tech brokering",
+	"Diplomatic relationships cannot change"
     ],
 	"modUrl": "https://github.com/ColziandKing/RSCnity",
 	"author": "ColziandKing",
